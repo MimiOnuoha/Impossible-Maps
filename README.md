@@ -7,7 +7,7 @@
 **Course Number:** 	DA 4111, 4 credits   
 **Office Hours:** TBD, email for appointment    
 
-**Turn in homework [here](https://goo.gl/forms/GqT90flo8oHWEsg22)**  
+**Turn in homework [here](https://goo.gl/forms/GqT90flo8oHWEsg22)**. 
 
 ## Course Description 
 
@@ -40,50 +40,48 @@ I can be reached via email at all times, but I am very slow to respond to emails
 
 ## Syllabus
 **Week One: September 5**    
-*Introductions to class and to each other, and getting set up for the semester. What is a map? What is the history of mapping? What makes digital mapping different from what came before? What are impossible maps?*
+Introductions to class and to each other, and getting set up for the semester. What is a map? What is the history of mapping? What makes digital mapping different from what came before? What are impossible maps?
 
 **Week Two: September 12**  
-*What do maps do? Creating our first webmaps; the anatomy of a webmap; what the different parts of a webmap do and what they can be used for.*
+What do maps do? Creating our first webmaps; the anatomy of a webmap; what the different parts of a webmap do and what they can be used for.
    
 **Week Three: September 19**      
-*Building out our webmaps; the differences between leaflet and mapbox; Understanding geodata and adding it to our maps.*   
+Building out our webmaps; the differences between leaflet and mapbox; Understanding geodata and adding it to our maps.
 
 **Week Four: September 26**  
-*Other ways of adding geodata to our maps; design considerations and cues*
-
-Adding our own data, because this is easier. But also, adding their own data.  
+Other ways of adding geodata to our maps; design considerations and cues.
 
 **Week Five: October 3**  
-*Continuation of design considerations; changing geodata into useful forms, working with multiple datasets.*
+Continuation of design considerations; changing geodata into useful forms, working with multiple datasets.
 
-Submit preliminary midterm idea. 
+*Prelim midterm ideas due.*
 
 **Week Six: October 10**  
- *Introducing newer forms of working with maps: extended mapping libraries, making your own tiles**  
+Introducing newer forms of working with maps: extended mapping libraries, making your own tiles 
 
 **Week Seven: October 17**    
-*Midterm Presentations*
+Midterm Presentations
 
 **Week Eight: October 24**   
-*Map projections; chloropleth maps; Tangram*    
+Map projections; chloropleth maps; Tangram    
 
 **Week Nine: October 31**   
-*CartoDB, Mapbox; integrating multiple types and huge amounts of data*   
+CartoDB, Mapbox; integrating multiple types and huge amounts of data   
 
 **Week Ten: November 7**  
-*Guest speaker/field trip -- TBD*
+Guest speaker/field trip -- TBD
 
 **Week Eleven: November 14**  
-*Google Maps Static Image API | Aerial and Satellite Imagery*   
+Google Maps Static Image API | Aerial and Satellite Imagery
 
 **Week Twelve: November 28**  
-*Digital mapping off the screen; experiments in geography apart from maps*    
+Digital mapping off the screen; experiments in geography apart from maps
 
 **Week Thirteen: December 5**  
-*Review/questions/work in class on final projects*
+Review/questions/work in class on final projects
 
 **Week Fourteen: December 12**   
-*Final Project Presentations*
+Final Project Presentations
 
 
 
