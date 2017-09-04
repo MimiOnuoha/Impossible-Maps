@@ -5,7 +5,7 @@
 **Term:** Fall 2017  
 **Time:** Wednesdays, 8am - 11:40am   
 **Course Number:** 	DA 4111, 4 credits   
-**Office Hours:** TBD, email for appointment    
+**Office Hours:** Wednesdays, 12pm - 1pm in the pod or room E214
 
 **Turn in homework [HERE](https://goo.gl/forms/GqT90flo8oHWEsg22)**  
 
@@ -18,12 +18,14 @@ In this course, students will learn the practical realities of working with spat
 Students will gain exposure to a broad range of techniques in web and digital mapping, with the goal that they eventually focus on one or two. Throughout the course, students will be challenged to make maps (or map-based creations) that function as artful objects and challenge common conventions of the capabilities of maps. The class will be taught primarily in JavaScript, with assignments making use of git and Github. Other technologies taught will include mapshaper, Leaflet.js, Mapbox, and Carto.
 
 ## Expectations and Requirements
-- Class attendance and punctuality
+- Class attendance and punctuality 
 - Participation during class discussions and presentations
 - Weekly assignments + accompanying blogpost  
 - Midterm and final project (completed individually or in groups)
 
-This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, secual orientation, religion, disability, or appearance.
+This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, secual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.  
+
+All students are allowed a maximum of two absences. It is worth stressing that because the class covers so much new material, it is very much to your advantage to not miss any classes, if possible. 
 
 
 ## Evaluation
