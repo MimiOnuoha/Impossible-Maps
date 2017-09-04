@@ -90,7 +90,7 @@ Submit preliminary midterm idea.
 *Digital mapping off the screen; experiments in geography apart from maps*    
 
 **Week Thirteen: December 6**  
-*Review/questions/work in class on final projects*
+*The future of web mapping  | work in class on final projects*
 
 **Week Fourteen: December 13**   
 *Final Project Presentations*
