@@ -6,6 +6,7 @@
 **Time:** Wednesdays, 8am - 11:40am   
 **Course Number:** 	DA 4111, 4 credits   
 **Office Hours:** Wednesdays, 12pm - 1pm in the pod or room E214
+**Anna's Office Hours:** Monday: 1-3pm, Thursday: 2-4pm, Friday: 11-1pm
 
 **Turn in homework [HERE](https://goo.gl/forms/GqT90flo8oHWEsg22)**  
 
