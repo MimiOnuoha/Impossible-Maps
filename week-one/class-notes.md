@@ -1,5 +1,7 @@
 # Impossible Maps - week one class notes 
 
+https://github.com/MimiOnuoha/Impossible-Maps
+
 account: digitalarts
 password: github
 
