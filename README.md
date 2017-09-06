@@ -24,7 +24,7 @@ Students will gain exposure to a broad range of techniques in web and digital ma
 - Weekly assignments + accompanying blogpost  
 - Midterm and final project (completed individually or in groups)
 
-This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, secual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.  
+This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.  
 
 All students are allowed a maximum of two absences. It is worth stressing that because the class covers so much new material, it is very much to your advantage to not miss any classes, if possible. 
 
@@ -54,6 +54,7 @@ Introductions to class and to each other, and getting set up for the semester. W
 
 - Go through [this](http://maptime.io/anatomy-of-a-web-map/#0) slideshow (it may take a minute to load properly) 
 - Read the introduction to [this](https://www.justinobeirne.com/cartography-comparison) comparison between Apple and Google Maps. 
+- Ask three people to make maps of how they get from home to Bennington. Bring them with you to class next week! 
 - Post a 300-500 word entry about your thoughts on the essay or anything we talked about in class. Does it matter that Apple and Google Maps have different styles? What interests you about maps, space, and the representation of both digitally? You can write anything, but you must post to your new blog and submit the URL using the homework link (see above). All text, no need to have any images.
 
 

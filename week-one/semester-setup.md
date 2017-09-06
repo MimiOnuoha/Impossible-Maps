@@ -71,7 +71,8 @@ By this point, you already have git and a github account, so this won't be too h
 3. **Click the button at the top that says "Fork"** </br> Forking a repository means that you are creating your own copy of an existing repository (a repository is a directory someone has created of code and files). When you've forked a repo, you can do anything you want to it without affecting the original. 
 4. **Change the name of the forked repository.** </br> Once the repository has been forked, click the button at the top for "Settings". Change the repository name from "lanyon" to YOURGITHUBUSERNAME.github.io. (Obviously insert your actual github username there). Then click the "Rename" button. 
 5. **Change the _config.yml file**</br> We need to do a couple things in the configuration for the site. Click on the config.yml file, then click the pencil so you can edit the file. </br></br>Now delete or comment out (by placing a # in front of) the line that says `relative_permalinks: true`. </br>Next, change the Setup and the About/contact section so that they reflect your information. 
-6. Now navigate to https://YOURGITHUBNAME.github.io. You should have a brand new site!
+6.**Delete the CNAME filee**</br>
+7. Now navigate to https://YOURGITHUBNAME.github.io. You should have a brand new site!
 
 You don't have to use Balzac, here are a few other themes you could apply the same process to and customize (and you can always search for more):
 
@@ -90,8 +91,6 @@ There are two ways to add a new post. The first way is easier but a little limit
 4. **Use the edit button to edit the file and write your post.** </br>When you're finished, hit the "commit changes" button. 
 5. It might take a few minutes, but navigate to your site and you should see your brand new post. 
 
-#### Method 1.5 Use a third party client like [Prose](http://prose.io/)
-You can go to [Prose](http://prose.io/), allow access to your Github, and you'll be presented with a clean and easy-to-work-with interface. See [this video](https://www.youtube.com/watch?v=n1hJomsmk2s) for a quick demonstration. But note that it might be easier to create the post in Github and then use Prose to adjust it, because Prose doesn't make it easy to add the 
 
 #### Method 3: Writing and developing locally 
 We haven't yet gotten to this, but if you're ambitious and want to try, go [here](https://github.com/barryclark/jekyll-now#quick-start) to the section that says "Local Development" and follow the instructions. 
