@@ -5,7 +5,7 @@
 **Term:** Fall 2017  
 **Time:** Wednesdays, 8am - 11:40am   
 **Course Number:** 	DA 4111, 4 credits   
-**Office Hours:** Wednesdays, 12pm - 1pm in the pod or room E214
+**Office Hours:** Wednesdays, 12pm - 1pm in the pod or room E214  
 **Anna's Office Hours:** Monday: 1-3pm, Thursday: 2-4pm, Friday: 11-1pm
 
 **Turn in homework [HERE](https://goo.gl/forms/GqT90flo8oHWEsg22)**  
@@ -59,7 +59,21 @@ Introductions to class and to each other, and getting set up for the semester. W
 
 
 **Week Two: September 13**  
-*What do maps do? Creating our first webmaps; the anatomy of a webmap; what the different parts of a webmap do and what they can be used for.*
+*What do maps do? Creating our first webmaps; the anatomy of a wem ap; what the different parts of a webmap do and what they can be used for.*  
+Screen Recording [here](https://www.youtube.com/watch?v=GS6iPvvQcKc&feature=youtu.be).  
+
+*Assignment:*
+
+Three parts to your homework:
+
+- Read Borges and Baudrillard (see reading folder)
+- Use the techniques we learned in class to **make a webmap**! You will need to:
+	- change the basemap and add attribution (see [here](https://leaflet-extras.github.io/leaflet-providers/preview/) for links to other basemaps you can add to the map) 
+	-  change the zoom level, the view (lat/lon), and the max zoom
+	-  add a marker, a popup, and a circle to your map
+	- **Get your map online in some form**. You can either take a screenshot of it and put it in a blogpost, or you can push it through your student server space. See or email Anna for help with this part. 
+	-  When you've uploaded the map, send the link via the [homework form](https://goo.gl/forms/GqT90flo8oHWEsg22). 
+-  Finally: download the Moves app on your phone (iPhone [here](https://itunes.apple.com/us/app/moves/id509204969?mt=8), Android [here](https://play.google.com/store/apps/details?id=com.protogeo.moves&hl=en)). This drains your battery like crazy (sorry!) but it'll be worth it.
    
 **Week Three: September 20**      
 *Building out our webmaps; the differences between leaflet and mapbox; Understanding geodata and adding it to our maps.*   

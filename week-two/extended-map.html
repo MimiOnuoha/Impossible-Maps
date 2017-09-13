@@ -1,13 +1,14 @@
 <!--  A basic web map. -->
-<!DOCTYPE html>
 <!-- Leaflet Guide: http://leafletjs.com/examples/quick-start/ -->
+<!-- Carto Base maps: http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/ -->
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
-
     
     <style>
-    /*This is the CSS to make our map fill the whole screen*/
+    /*This is the CSS to make our map fill the whole screen */
     body {
         margin: 0;
         padding: 0;
@@ -19,9 +20,9 @@
         bottom: 0;
         width: 100%;
     }
-
-
     </style>
+
+
     <title> Base Layer </title>
     <!-- Leaflet stylesheet -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
@@ -33,15 +34,17 @@
     <div id="map"> </div>
     <!-- This is saying where our map is in the html -->
     <script>
-    // This is where we'll write Javascript code
 
     var map = L.map('map').setView([42.919, -73.2400], 4);
-    L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_nolabels/{z}/{x}/{y}.png', {
-    	attribution: 'OpenStreetMap',
-        maxZoom: 18,
+    
+    var OpenStreetMap_HOT = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+        maxZoom: 5,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>',
     }).addTo(map);
 
+    var marker = L.marker([42.919, -73.2400]).addTo(map);
 
+    marker.bindPopup("<strong>This is where Bennington is!</strong>.").openPopup();
 
     </script>
 </body>
