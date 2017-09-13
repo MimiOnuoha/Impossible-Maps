@@ -62,8 +62,7 @@ Introductions to class and to each other, and getting set up for the semester. W
 *What do maps do? Creating our first webmaps; the anatomy of a wem ap; what the different parts of a webmap do and what they can be used for.*  
 Screen Recording [here](https://www.youtube.com/watch?v=GS6iPvvQcKc&feature=youtu.be).  
 
-*Assignment:*
-
+*Assignment:*  
 Three parts to your homework:
 
 - Read Borges and Baudrillard (see reading folder)
