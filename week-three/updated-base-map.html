@@ -1,0 +1,45 @@
+<!-- Mapbox documentation link below -->
+<!-- https://www.mapbox.com/mapbox.js/api/v3.1.1/l-control/ -->
+<!DOCTYPE html>
+
+<head>
+    <style>
+    body {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+    }
+    
+    html,
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    </style>
+    <title> Week Two Base Map </title>
+    <script src='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.css' rel='stylesheet'>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script> 
+
+</head>
+
+<body>
+    <div id="map"></div>
+    <script>
+
+    L.mapbox.accessToken = 'YOUR-MAPBOX-ACCESS-TOKEN';
+    var map = L.map('map').setView([42.919, -73.2400], 4);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+        attribution:'&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>'
+    }).addTo(map);
+    
+
+
+
+    </script>
+</body>
+
+</html>
