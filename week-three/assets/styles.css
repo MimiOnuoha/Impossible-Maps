@@ -1,0 +1,19 @@
+ body { 
+ 	margin:0; 
+ 	padding:0; }
+
+ #map { 
+ 	position:absolute; 
+ 	top:0; 
+ 	bottom:0; 
+ 	width:100%; }
+
+.info {
+	position: absolute;
+	top: 10px;
+	right: 10px; }
+
+.info div {
+    background: #fff;
+    padding: 10px;
+    border-radius: 3px; }
