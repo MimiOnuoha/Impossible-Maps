@@ -1,0 +1,5 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-09-19T18:14:39.300Z,18.5838,-98.3993,51.01,7.1,mww,,23,1.045,1.09,us,us2000ar20,2017-09-20T15:19:21.431Z,"5km ENE of Raboso, Mexico",earthquake,8.1,5.6,0.05,39,reviewed,us,us
+2017-09-19T11:47:28.710Z,38.4238333,-87.9098333,11.68,3.8,mw,36,31,0.1008,0.18,nm,nm60207021,2017-09-20T14:31:55.070Z,"12km ENE of Albion, Illinois",earthquake,0.25,0.43,,62,reviewed,nm,nm
+2017-09-19T06:20:44.370Z,34.0866667,-118.4756667,10.48,3.61,ml,167,47,0.02591,0.25,ci,ci37766535,2017-09-20T15:22:18.628Z,"5km NW of Westwood, CA",earthquake,0.13,0.26,0.148,351,reviewed,ci,ci
+2017-09-15T01:17:47.780Z,37.414,-121.8056667,-0.21,3.29,ml,150,29,0.03653,0.18,nc,nc72892486,2017-09-20T14:32:22.960Z,"3km NNE of East Foothills, California",earthquake,0.1,0.42,0.139,63,reviewed,nc,nc
