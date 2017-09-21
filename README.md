@@ -81,12 +81,13 @@ Three parts to your homework:
 
 - Read [this](http://www.cabinetmagazine.org/issues/47/bridle.php) piece by James Bridle about trap streets
 - Learn more about geojson by reading [this](https://macwright.org/2015/03/23/geojson-second-bite.html) up until the section that begins with "Winding"
-- Use the techniques we learned this week in class to **make a new webmap** or **build on last week's map**. Include the following:
+- Use the techniques we learned this week in class to **make a new webmap** or **build on last week's map**:
 	-  go to [geojson.io](http://geojson.io/#map=2/20.0/0.0) and create your own geojson data. Use the omnivore library to add this to your map. 
 	-  Use the mapbox [examples](https://www.mapbox.com/mapbox.js/example/v1.0.0/) or [documentation](https://www.mapbox.com/mapbox.js/api/v3.1.1/) to figure out how to add extra to your map (for example, how to [center markers](https://www.mapbox.com/mapbox.js/example/v1.0.0/centering-markers/) or add a [legend](https://www.mapbox.com/mapbox.js/api/v3.1.1/l-mapbox-legendcontrol/). Note: this is an exercise in learning to use the documentation. 
 	- **Get your map online** by pushing it to your github.io site. See the week three class notes file if you need a reminder as to the git commands. 
 	-  When you've uploaded the map, send the link via the [homework form](https://goo.gl/forms/GqT90flo8oHWEsg22). 
 
+Note: on the homework form you will notice that I've included a new question, where you can now check it if you want brief written feedback on homework assignments. 
 
 **Week Four: September 27**  
 *More geodata; design considerations and cues*  
