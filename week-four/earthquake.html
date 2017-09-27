@@ -46,23 +46,75 @@
 <body>
     <div id="map" class ="mapboxgl-map"></div>
     <div class="map-overlay" id="features">
-    <h2> Title or something goes here</h2>
+    <h2> Earthquakes Today </h2>
+    <p> Hover for magnitude, click to center</p>
 </div>
    
 
     <script>
-    mapboxgl.accessToken = 'ADD YOUR MAPBOX KEY HERE';
+    mapboxgl.accessToken = 'pk.eyJ1IjoibW9udW9oYSIsImEiOiJEN0llUXVZIn0.H0DvYd5sdO9b3dNcnuucvw';
     
+    // Initiating our map
     var map = new mapboxgl.Map({
         container: 'map', // you need this
-        style: 'mapbox://styles/mapbox/light-v9', // you need this
+        style: 'mapbox://styles/mapbox/dark-v9', // you need this
         center: [-113.7156246, 36.2473835], // [long, lat] 
         zoom: 2
     });
 
+    // Loading our earthquake data
+    map.on('load', function(){
+      map.addLayer({
+        id: 'earthquakes',
+        type: 'circle',
+        source: {
+          type: 'geojson',
+          data: 'all_day.geojson'
+        },
+        paint: { //this is where we do styles 
+          // we want our circle radius to progress from 2 to 10 pixels as the magniture increases up to 5.2
+          'circle-radius': {
+            property: 'mag',
+            type: 'exponential',
+            stops:[
+            [.3, 2],
+            [5.2, 10]
+            ]
+          },
+          'circle-color': {
+            property: 'mag',
+            stops: [
+            [0, '#FBFF33'],
+            [5.2,'#FF4933']
+            ]
+          },
+          'circle-opacity': .8 //goes from 0 to 1
+        }
+      });
+    });
+
+    //Let's instantiate a pop-up (but not add it to map yet)
+    var popup = new mapboxgl.Popup({
+        // closeButton: false,
+        closeOnClick: false
+    });
+
+   map.on('mouseenter', 'earthquakes', function(e){
+    map.getCanvas().style.cursor = 'pointer'; //change cursor 
+
+    //Populate pop-up with information from our geojson file
+    //Add to map on hover (or mouseenter), with "Magnitude: "
+    popup.setLngLat(e.features[0].geometry.coordinates)
+      .setHTML("Magnitude: " + e.features[0].properties.mag)
+      .addTo(map);  
+
+   });
+
+   map.on('click', 'earthquakes', function(e){
+      map.flyTo({center: e.features[0].geometry.coordinates});
+   });
 
  
-
     </script>
 </body>
 
