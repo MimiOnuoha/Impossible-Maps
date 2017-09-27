@@ -1,67 +1,68 @@
 <!-- Documentation: https://www.mapbox.com/mapbox-gl-js/style-spec/#sources-geojson -->
-
 <!-- States data url: https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_110m_admin_1_states_provinces.geojson -->
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-    
-     <style> 
-    body { margin: 0; padding: 0; }
+    <style>
+    @import url('https://fonts.googleapis.com/css?family=Mukta+Malar');
+    body {
+        margin: 0;
+        padding: 0;
+    }
     html,
-    #map { position: absolute; top: 0; bottom: 0; width: 100%; }
-
-  .map-overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    background: rgba(255, 255, 255, 0.8);
-    margin-left: 20px;
-    font-family: Arial, sans-serif;
-    overflow: auto;
-    border-radius: 3px;
-  }
-
-  #features {
-    top: 0;
-    height: 100px;
-    margin-top: 20px;
-    width: 250px;
-  }
-
- h2, p {
-    color: black;
-    margin: 10px;
- }
-
-
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    .map-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: rgba(255, 255, 255, 0.8);
+        margin-left: 20px;
+        font-family: 'Helvetica', sans-serif;
+        overflow: auto;
+        border-radius: 3px;
+    }
+    #features {
+        top: 0;
+        height: 100px;
+        margin-top: 20px;
+        width: 250px;
+    }
+    h2,
+    p {
+        color: black;
+        margin: 10px;
+    }
     </style>
-
-
     <title> Vector Map with Legend </title>
- <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
- <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
 </head>
 
 <body>
-    <div id="map" class ="mapboxgl-map"></div>
+    <div id="map" class="mapboxgl-map"></div>
     <div class="map-overlay" id="features">
-    <h2> Map Title </h2>
-    <div id ="content"> 
-        <p> Something goes here </p>
+        <h2> Map Title </h2>
+        <div id="pd">
+            <p> Something goes here </p>
+        </div>
     </div>
-</div>
-   
-
     <script>
-    mapboxgl.accessToken = 'INSERT-YOUR-MAPBOX-API-KEY-HERE';
-    
-  
+    mapboxgl.accessToken = 'pk.eyJ1IjoibW9udW9oYSIsImEiOiJEN0llUXVZIn0.H0DvYd5sdO9b3dNcnuucvw';
 
-
-
- 
+    var map = new mapboxgl.Map({
+        container: 'map', // you have to have this
+        style: 'mapbox://styles/mapbox/light-v9', // you must have this
+        center: [-74.0006213, 40.7229971],
+        zoom: 14,
+        pitch: 10,
+        bearing: 70
+    })
 
     </script>
 </body>
