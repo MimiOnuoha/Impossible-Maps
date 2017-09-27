@@ -1,0 +1,4869 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T21:38:14.166Z",
+        "depth": "34.5",
+        "mag": 2.4,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.73",
+        "net": "ak",
+        "id": "ak15177809",
+        "updated": "2017-01-30T21:46:10.688Z",
+        "place": "58km S of Larsen Bay, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.3",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.8063,
+          57.0247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T20:53:12.328Z",
+        "depth": "12.6",
+        "mag": 0.9,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.77",
+        "net": "ak",
+        "id": "ak15177656",
+        "updated": "2017-01-30T21:52:03.114Z",
+        "place": "109km NW of Talkeetna, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.3",
+        "magError": "",
+        "magNst": "",
+        "status": "reviewed",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.6479,
+          63.009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T20:46:37.920Z",
+        "depth": "5",
+        "mag": 3.3,
+        "magType": "ml",
+        "nst": "",
+        "gap": "48",
+        "dmin": "0.641",
+        "rms": "0.67",
+        "net": "us",
+        "id": "us10007wad",
+        "updated": "2017-01-30T21:43:07.112Z",
+        "place": "2km NE of Silt, Colorado",
+        "type": "earthquake",
+        "horizontalError": "3.3",
+        "depthError": "1.6",
+        "magError": "0.032",
+        "magNst": "130",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6343,
+          39.5653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T20:19:53.940Z",
+        "depth": "12.6",
+        "mag": 1.46,
+        "magType": "md",
+        "nst": "13",
+        "gap": "95",
+        "dmin": "0.1593",
+        "rms": "0.04",
+        "net": "nc",
+        "id": "nc72757970",
+        "updated": "2017-01-30T20:41:02.428Z",
+        "place": "31km SE of King City, California",
+        "type": "earthquake",
+        "horizontalError": "0.38",
+        "depthError": "1.35",
+        "magError": "0.17",
+        "magNst": "5",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8791656,
+          36.0108337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T20:01:13.600Z",
+        "depth": "2.83",
+        "mag": 1.82,
+        "magType": "md",
+        "nst": "31",
+        "gap": "47",
+        "dmin": "0.007445",
+        "rms": "0.03",
+        "net": "nc",
+        "id": "nc72757965",
+        "updated": "2017-01-30T20:30:02.412Z",
+        "place": "5km NW of The Geysers, California",
+        "type": "earthquake",
+        "horizontalError": "0.2",
+        "depthError": "0.34",
+        "magError": "0.19",
+        "magNst": "13",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7938309,
+          38.8153343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T19:56:08.212Z",
+        "depth": "25.4",
+        "mag": 1.9,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "1.05",
+        "net": "ak",
+        "id": "ak15177575",
+        "updated": "2017-01-30T20:04:04.467Z",
+        "place": "45km N of Whittier, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.2",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.5551,
+          61.177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T19:53:37.350Z",
+        "depth": "-1.93",
+        "mag": 1.1,
+        "magType": "ml",
+        "nst": "18",
+        "gap": "64",
+        "dmin": "0.04787",
+        "rms": "0.18",
+        "net": "ci",
+        "id": "ci37575743",
+        "updated": "2017-01-30T21:46:26.600Z",
+        "place": "10km NNW of Big Bear City, CA",
+        "type": "quarry blast",
+        "horizontalError": "0.43",
+        "depthError": "31.61",
+        "magError": "0.088",
+        "magNst": "19",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8848333,
+          34.3418333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T19:34:37.607Z",
+        "depth": "0",
+        "mag": 2,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.77",
+        "net": "ak",
+        "id": "ak15177545",
+        "updated": "2017-01-30T19:51:19.173Z",
+        "place": "166km WNW of Haines Junction, Canada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.3",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.2799,
+          61.4011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T19:34:10.560Z",
+        "depth": "3.28",
+        "mag": 0.91,
+        "magType": "md",
+        "nst": "9",
+        "gap": "145",
+        "dmin": "0.006133",
+        "rms": "0.04",
+        "net": "nc",
+        "id": "nc72757955",
+        "updated": "2017-01-30T20:19:02.392Z",
+        "place": "10km WNW of The Geysers, California",
+        "type": "earthquake",
+        "horizontalError": "0.76",
+        "depthError": "0.99",
+        "magError": "0.07",
+        "magNst": "5",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8606644,
+          38.8221664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T19:17:54.385Z",
+        "depth": "75.4",
+        "mag": 1.9,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.34",
+        "net": "ak",
+        "id": "ak15177412",
+        "updated": "2017-01-30T19:33:45.674Z",
+        "place": "45km W of Willow, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.6",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.8851,
+          61.8154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T19:06:50.258Z",
+        "depth": "5.3",
+        "mag": 1.6,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.62",
+        "net": "ak",
+        "id": "ak15177410",
+        "updated": "2017-01-30T19:16:12.953Z",
+        "place": "59km SSW of Salcha, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.3",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.5021,
+          64.0608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T18:45:18.982Z",
+        "depth": "10.4",
+        "mag": 1.2,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.51",
+        "net": "ak",
+        "id": "ak15177406",
+        "updated": "2017-01-30T18:58:57.520Z",
+        "place": "59km NW of Ester, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.2",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.0487,
+          65.1476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T18:43:51.161Z",
+        "depth": "7.3",
+        "mag": 1.3,
+        "magType": "ml",
+        "nst": "15",
+        "gap": "88.98",
+        "dmin": "0.123",
+        "rms": "0.1663",
+        "net": "nn",
+        "id": "nn00576217",
+        "updated": "2017-01-30T19:08:00.532Z",
+        "place": "28km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "4",
+        "magError": "0.33",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9108,
+          38.4104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T18:00:43.652Z",
+        "depth": "8.9",
+        "mag": 1.9,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.64",
+        "net": "ak",
+        "id": "ak15177117",
+        "updated": "2017-01-30T18:10:06.066Z",
+        "place": "11km ESE of Seward, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.2",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2576,
+          60.056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T17:13:48.251Z",
+        "depth": "5.8",
+        "mag": 1.2,
+        "magType": "ml",
+        "nst": "11",
+        "gap": "149.14",
+        "dmin": "0.157",
+        "rms": "0.1857",
+        "net": "nn",
+        "id": "nn00576207",
+        "updated": "2017-01-30T17:32:26.856Z",
+        "place": "29km ENE of Bridgeport, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "3.2",
+        "magError": "0.19",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9263,
+          38.364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T16:56:47.740Z",
+        "depth": "1.7",
+        "mag": 0.39,
+        "magType": "md",
+        "nst": "9",
+        "gap": "120",
+        "dmin": "0.006443",
+        "rms": "0.01",
+        "net": "nc",
+        "id": "nc72757945",
+        "updated": "2017-01-30T17:17:02.993Z",
+        "place": "4km WNW of Cobb, California",
+        "type": "earthquake",
+        "horizontalError": "0.34",
+        "depthError": "0.55",
+        "magError": "0.08",
+        "magNst": "3",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7741699,
+          38.8359985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T16:55:33.760Z",
+        "depth": "5.11",
+        "mag": 2.8,
+        "magType": "mb_lg",
+        "nst": "",
+        "gap": "42",
+        "dmin": "0.137",
+        "rms": "0.18",
+        "net": "us",
+        "id": "us10007w6u",
+        "updated": "2017-01-30T20:13:49.903Z",
+        "place": "4km S of Medford, Oklahoma",
+        "type": "earthquake",
+        "horizontalError": "1.8",
+        "depthError": "1.8",
+        "magError": "0.086",
+        "magNst": "35",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7242,
+          36.7669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T16:45:08.610Z",
+        "depth": "10",
+        "mag": 4.7,
+        "magType": "mb",
+        "nst": "",
+        "gap": "78",
+        "dmin": "8.215",
+        "rms": "0.75",
+        "net": "us",
+        "id": "us10007w6s",
+        "updated": "2017-01-30T19:26:15.040Z",
+        "place": "West Chile Rise",
+        "type": "earthquake",
+        "horizontalError": "6.7",
+        "depthError": "1.9",
+        "magError": "0.076",
+        "magNst": "52",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6656,
+          -42.7255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T16:26:35.320Z",
+        "depth": "0.01",
+        "mag": 1.74,
+        "magType": "md",
+        "nst": "22",
+        "gap": "159",
+        "dmin": "0.03997",
+        "rms": "0.36",
+        "net": "hv",
+        "id": "hv61585351",
+        "updated": "2017-01-30T16:29:42.870Z",
+        "place": "13km SSE of Fern Acres, Hawaii",
+        "type": "earthquake",
+        "horizontalError": "0.9",
+        "depthError": "0.44",
+        "magError": "0.26",
+        "magNst": "9",
+        "status": "automatic",
+        "locationSource": "hv",
+        "magSource": "hv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0333405,
+          19.3956661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T16:20:55.330Z",
+        "depth": "10",
+        "mag": 4.7,
+        "magType": "mb",
+        "nst": "",
+        "gap": "172",
+        "dmin": "0.8",
+        "rms": "0.81",
+        "net": "us",
+        "id": "us10007w6q",
+        "updated": "2017-01-30T18:19:32.040Z",
+        "place": "76km SW of San Juan del Sur, Nicaragua",
+        "type": "earthquake",
+        "horizontalError": "4.6",
+        "depthError": "1.5",
+        "magError": "0.062",
+        "magNst": "79",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4049,
+          10.8049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T15:48:07.500Z",
+        "depth": "11.8",
+        "mag": 0.7,
+        "magType": "ml",
+        "nst": "25",
+        "gap": "77",
+        "dmin": "0.02804",
+        "rms": "0.11",
+        "net": "ci",
+        "id": "ci37575679",
+        "updated": "2017-01-30T19:28:04.131Z",
+        "place": "4km ESE of Lake Henshaw, CA",
+        "type": "earthquake",
+        "horizontalError": "0.2",
+        "depthError": "0.36",
+        "magError": "0.114",
+        "magNst": "11",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7285,
+          33.224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T15:44:13.900Z",
+        "depth": "10.42",
+        "mag": 0.73,
+        "magType": "ml",
+        "nst": "27",
+        "gap": "141",
+        "dmin": "0.07707",
+        "rms": "0.17",
+        "net": "ci",
+        "id": "ci37575671",
+        "updated": "2017-01-30T19:13:03.245Z",
+        "place": "15km NNE of Borrego Springs, CA",
+        "type": "earthquake",
+        "horizontalError": "0.29",
+        "depthError": "0.68",
+        "magError": "0.106",
+        "magNst": "10",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2926667,
+          33.3721667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:58:28.030Z",
+        "depth": "6.56",
+        "mag": 2.6,
+        "magType": "ml",
+        "nst": "10",
+        "gap": "126",
+        "dmin": "0.1636",
+        "rms": "0.11",
+        "net": "ci",
+        "id": "ci37575663",
+        "updated": "2017-01-30T20:31:13.962Z",
+        "place": "88km ESE of Maneadero, B.C., MX",
+        "type": "earthquake",
+        "horizontalError": "0.95",
+        "depthError": "2.56",
+        "magError": "0.162",
+        "magNst": "38",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6675,
+          31.5216667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:48:25.565Z",
+        "depth": "6.5",
+        "mag": 0.8,
+        "magType": "ml",
+        "nst": "8",
+        "gap": "180.1",
+        "dmin": "0.38",
+        "rms": "0.178",
+        "net": "nn",
+        "id": "nn00576242",
+        "updated": "2017-01-30T20:06:53.611Z",
+        "place": "30km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "19.7",
+        "magError": "0.28",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9401,
+          38.4172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:47:32.348Z",
+        "depth": "6.2",
+        "mag": 1.2,
+        "magType": "ml",
+        "nst": "7",
+        "gap": "219",
+        "dmin": "0.378",
+        "rms": "0.1191",
+        "net": "nn",
+        "id": "nn00576240",
+        "updated": "2017-01-30T20:00:41.222Z",
+        "place": "28km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "14.9",
+        "magError": "0.22",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9316,
+          38.428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:46:02.249Z",
+        "depth": "12.1",
+        "mag": 0.8,
+        "magType": "ml",
+        "nst": "4",
+        "gap": "291.53",
+        "dmin": "0.331",
+        "rms": "0.0593",
+        "net": "nn",
+        "id": "nn00576235",
+        "updated": "2017-01-30T19:45:15.248Z",
+        "place": "23km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "31.4",
+        "magError": "0.12",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8672,
+          38.4373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:43:26.515Z",
+        "depth": "6.6",
+        "mag": 1,
+        "magType": "ml",
+        "nst": "10",
+        "gap": "94.05",
+        "dmin": "0.11",
+        "rms": "0.1603",
+        "net": "nn",
+        "id": "nn00576188",
+        "updated": "2017-01-30T17:26:17.239Z",
+        "place": "26km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "3.4",
+        "magError": "0.22",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9027,
+          38.4316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:42:46.160Z",
+        "depth": "2.78",
+        "mag": 1.02,
+        "magType": "md",
+        "nst": "14",
+        "gap": "179",
+        "dmin": "0.01559",
+        "rms": "0.03",
+        "net": "nc",
+        "id": "nc72757920",
+        "updated": "2017-01-30T15:10:04.527Z",
+        "place": "6km NW of Cobb, California",
+        "type": "earthquake",
+        "horizontalError": "0.55",
+        "depthError": "0.66",
+        "magError": "0.15",
+        "magNst": "5",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7795029,
+          38.8621674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:40:48.205Z",
+        "depth": "66.3",
+        "mag": 1.9,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.54",
+        "net": "ak",
+        "id": "ak15176980",
+        "updated": "2017-01-30T14:55:08.345Z",
+        "place": "65km SSW of Cantwell, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "1.3",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.6202,
+          62.888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:40:24.100Z",
+        "depth": "3.34",
+        "mag": 1.35,
+        "magType": "md",
+        "nst": "22",
+        "gap": "116",
+        "dmin": "0.02078",
+        "rms": "0.04",
+        "net": "nc",
+        "id": "nc72757915",
+        "updated": "2017-01-30T14:56:03.721Z",
+        "place": "6km NW of Cobb, California",
+        "type": "earthquake",
+        "horizontalError": "0.3",
+        "depthError": "0.63",
+        "magError": "0.17",
+        "magNst": "7",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7758331,
+          38.8673325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:33:04.400Z",
+        "depth": "0.2",
+        "mag": 0.8,
+        "magType": "ml",
+        "nst": "5",
+        "gap": "285.83",
+        "dmin": "0.338",
+        "rms": "0.1375",
+        "net": "nn",
+        "id": "nn00576229",
+        "updated": "2017-01-30T19:26:39.256Z",
+        "place": "26km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "4.3",
+        "magError": "0",
+        "magNst": "1",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8856,
+          38.4084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:30:42.273Z",
+        "depth": "10",
+        "mag": 0.6,
+        "magType": "ml",
+        "nst": "5",
+        "gap": "280.57",
+        "dmin": "0.321",
+        "rms": "0.1813",
+        "net": "nn",
+        "id": "nn00576227",
+        "updated": "2017-01-30T19:23:28.426Z",
+        "place": "22km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "18.9",
+        "magError": "0.05",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8501,
+          38.4227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:29:07.732Z",
+        "depth": "3.4",
+        "mag": 0.8,
+        "magType": "ml",
+        "nst": "9",
+        "gap": "198.85",
+        "dmin": "0.232",
+        "rms": "0.1132",
+        "net": "nn",
+        "id": "nn00576185",
+        "updated": "2017-01-30T14:57:53.848Z",
+        "place": "56km NE of Lone Pine, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "8.3",
+        "magError": "0.21",
+        "magNst": "6",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6716,
+          37.0018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:27:20.125Z",
+        "depth": "39.5",
+        "mag": 1.9,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.4",
+        "net": "ak",
+        "id": "ak15176978",
+        "updated": "2017-01-30T14:35:03.175Z",
+        "place": "31km E of Sterling, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.5",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.1927,
+          60.4996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:16:20.700Z",
+        "depth": "71",
+        "mag": 3.4,
+        "magType": "Md",
+        "nst": "10",
+        "gap": "298.8",
+        "dmin": "1.1049278",
+        "rms": "0.47",
+        "net": "pr",
+        "id": "pr17030001",
+        "updated": "2017-01-30T17:26:52.040Z",
+        "place": "120km NNW of Charlotte Amalie, U.S. Virgin Islands",
+        "type": "earthquake",
+        "horizontalError": "7.7",
+        "depthError": "17.2",
+        "magError": "0",
+        "magNst": "6",
+        "status": "reviewed",
+        "locationSource": "pr",
+        "magSource": "pr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.1408,
+          19.4101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:04:10.020Z",
+        "depth": "54.21",
+        "mag": 5.1,
+        "magType": "mb",
+        "nst": "",
+        "gap": "70",
+        "dmin": "6.797",
+        "rms": "0.6",
+        "net": "us",
+        "id": "us10007w6e",
+        "updated": "2017-01-30T17:23:07.040Z",
+        "place": "136km SSE of Lata, Solomon Islands",
+        "type": "earthquake",
+        "horizontalError": "9.2",
+        "depthError": "4.3",
+        "magError": "0.065",
+        "magNst": "78",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.4393,
+          -11.7944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T14:00:46.530Z",
+        "depth": "12.98",
+        "mag": 0.48,
+        "magType": "ml",
+        "nst": "17",
+        "gap": "243",
+        "dmin": "0.07604",
+        "rms": "0.12",
+        "net": "ci",
+        "id": "ci37575647",
+        "updated": "2017-01-30T18:53:07.754Z",
+        "place": "17km ESE of Anza, CA",
+        "type": "earthquake",
+        "horizontalError": "0.45",
+        "depthError": "0.37",
+        "magError": "0.15",
+        "magNst": "7",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5131667,
+          33.479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:53:25.240Z",
+        "depth": "10",
+        "mag": 4.9,
+        "magType": "mb",
+        "nst": "",
+        "gap": "98",
+        "dmin": "0.729",
+        "rms": "0.31",
+        "net": "us",
+        "id": "us10007w6b",
+        "updated": "2017-01-30T16:48:47.040Z",
+        "place": "72km NNW of Wanaka, New Zealand",
+        "type": "earthquake",
+        "horizontalError": "3",
+        "depthError": "1.9",
+        "magError": "0.324",
+        "magNst": "6",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.679,
+          -44.1394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:49:55.604Z",
+        "depth": "129.3",
+        "mag": 2.4,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.84",
+        "net": "ak",
+        "id": "ak15176853",
+        "updated": "2017-01-30T13:56:37.002Z",
+        "place": "85km E of Old Iliamna, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "2.1",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.3925,
+          59.7732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:48:44.520Z",
+        "depth": "14.31",
+        "mag": 1.51,
+        "magType": "ml",
+        "nst": "6",
+        "gap": "88",
+        "dmin": "0.06016",
+        "rms": "0.22",
+        "net": "uw",
+        "id": "uw61247641",
+        "updated": "2017-01-30T17:07:45.200Z",
+        "place": "7km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.81",
+        "depthError": "1.51",
+        "magError": "0.092",
+        "magNst": "5",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0585,
+          48.598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:40:31.700Z",
+        "depth": "14.11",
+        "mag": 0.27,
+        "magType": "md",
+        "nst": "4",
+        "gap": "123",
+        "dmin": "0.06483",
+        "rms": "0.15",
+        "net": "uw",
+        "id": "uw61247636",
+        "updated": "2017-01-30T17:05:42.160Z",
+        "place": "8km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.73",
+        "depthError": "1.47",
+        "magError": "0.063",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.051,
+          48.6056667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:37:24.830Z",
+        "depth": "10",
+        "mag": 5.2,
+        "magType": "mb",
+        "nst": "",
+        "gap": "48",
+        "dmin": "9.497",
+        "rms": "0.7",
+        "net": "us",
+        "id": "us10007w68",
+        "updated": "2017-01-30T16:34:47.040Z",
+        "place": "Northern Mid-Atlantic Ridge",
+        "type": "earthquake",
+        "horizontalError": "7.3",
+        "depthError": "1.8",
+        "magError": "0.035",
+        "magNst": "270",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.5996,
+          34.5878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:34:24.220Z",
+        "depth": "2.28",
+        "mag": 0.91,
+        "magType": "ml",
+        "nst": "21",
+        "gap": "154",
+        "dmin": "0.1093",
+        "rms": "0.15",
+        "net": "ci",
+        "id": "ci37575631",
+        "updated": "2017-01-30T19:19:53.576Z",
+        "place": "14km NE of Coachella, CA",
+        "type": "earthquake",
+        "horizontalError": "0.27",
+        "depthError": "0.36",
+        "magError": "0.116",
+        "magNst": "10",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0498333,
+          33.7578333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:31:31.280Z",
+        "depth": "9.4",
+        "mag": 0.1,
+        "magType": "ml",
+        "nst": "4",
+        "gap": "283.18",
+        "dmin": "0.159",
+        "rms": "0.1443",
+        "net": "nn",
+        "id": "nn00576190",
+        "updated": "2017-01-30T14:51:34.220Z",
+        "place": "17km SW of Portola, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "6.7",
+        "magError": "0.47",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.633,
+          39.7219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:15:45.400Z",
+        "depth": "10",
+        "mag": 4.7,
+        "magType": "mb",
+        "nst": "",
+        "gap": "144",
+        "dmin": "3.384",
+        "rms": "0.61",
+        "net": "us",
+        "id": "us10007w64",
+        "updated": "2017-01-30T14:31:50.040Z",
+        "place": "34km SW of Muara Siberut, Indonesia",
+        "type": "earthquake",
+        "horizontalError": "8",
+        "depthError": "1.9",
+        "magError": "0.086",
+        "magNst": "41",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.9726,
+          -1.7996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:09:57.909Z",
+        "depth": "6.6",
+        "mag": 1.2,
+        "magType": "ml",
+        "nst": "10",
+        "gap": "134.53",
+        "dmin": "0.108",
+        "rms": "0.1227",
+        "net": "nn",
+        "id": "nn00576182",
+        "updated": "2017-01-30T17:16:54.759Z",
+        "place": "26km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "3",
+        "magError": "0.16",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9014,
+          38.4366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T13:04:56.610Z",
+        "depth": "8.51",
+        "mag": 0.26,
+        "magType": "ml",
+        "nst": "24",
+        "gap": "92",
+        "dmin": "0.07476",
+        "rms": "0.15",
+        "net": "ci",
+        "id": "ci37575623",
+        "updated": "2017-01-30T19:24:36.048Z",
+        "place": "16km N of Warner Springs, CA",
+        "type": "earthquake",
+        "horizontalError": "0.26",
+        "depthError": "0.54",
+        "magError": "0.115",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6116667,
+          33.4201667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T12:26:35.290Z",
+        "depth": "12.4",
+        "mag": 1.66,
+        "magType": "ml",
+        "nst": "4",
+        "gap": "128",
+        "dmin": "0.0692",
+        "rms": "0.09",
+        "net": "uw",
+        "id": "uw60132108",
+        "updated": "2017-01-30T17:02:44.830Z",
+        "place": "8km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.52",
+        "depthError": "1.33",
+        "magError": "0.119",
+        "magNst": "5",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0606667,
+          48.6075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T12:26:31.220Z",
+        "depth": "16.74",
+        "mag": 1.59,
+        "magType": "ml",
+        "nst": "6",
+        "gap": "84",
+        "dmin": "0.05853",
+        "rms": "0.2",
+        "net": "uw",
+        "id": "uw61247626",
+        "updated": "2017-01-30T16:59:34.570Z",
+        "place": "7km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.86",
+        "depthError": "1.56",
+        "magError": "0.203",
+        "magNst": "6",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0645,
+          48.5935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T12:24:58.550Z",
+        "depth": "15.38",
+        "mag": 1.25,
+        "magType": "ml",
+        "nst": "6",
+        "gap": "89",
+        "dmin": "0.05887",
+        "rms": "0.21",
+        "net": "uw",
+        "id": "uw61247621",
+        "updated": "2017-01-30T16:56:23.340Z",
+        "place": "7km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.77",
+        "depthError": "1.44",
+        "magError": "0.27",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0563333,
+          48.5973333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T12:23:55.318Z",
+        "depth": "0",
+        "mag": 1.7,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.55",
+        "net": "ak",
+        "id": "ak15176847",
+        "updated": "2017-01-30T12:39:13.422Z",
+        "place": "11km E of Eielson Air Force Base, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.3",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -146.8207,
+          64.6625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T12:08:32.640Z",
+        "depth": "184.1",
+        "mag": 2.9,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.68",
+        "net": "ak",
+        "id": "ak15176840",
+        "updated": "2017-01-30T12:17:24.956Z",
+        "place": "62km WSW of Redoubt Volcano, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.6",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.7809,
+          60.2616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T12:01:29.630Z",
+        "depth": "15.16",
+        "mag": 1.29,
+        "magType": "ml",
+        "nst": "10",
+        "gap": "98",
+        "dmin": "0.1056",
+        "rms": "0.13",
+        "net": "uw",
+        "id": "uw61247616",
+        "updated": "2017-01-30T18:10:16.280Z",
+        "place": "10km SSE of Granite Falls, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.39",
+        "depthError": "0.77",
+        "magError": "0.139",
+        "magNst": "5",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8893333,
+          48.0038333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:51:09.420Z",
+        "depth": "2.11",
+        "mag": 0.86,
+        "magType": "md",
+        "nst": "9",
+        "gap": "115",
+        "dmin": "0.01679",
+        "rms": "0.01",
+        "net": "nc",
+        "id": "nc72757880",
+        "updated": "2017-01-30T12:06:02.107Z",
+        "place": "7km ESE of Mammoth Lakes, California",
+        "type": "earthquake",
+        "horizontalError": "0.41",
+        "depthError": "0.62",
+        "magError": "0.22",
+        "magNst": "7",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.887001,
+          37.6295013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:48:50.240Z",
+        "depth": "14.35",
+        "mag": 1.15,
+        "magType": "ml",
+        "nst": "7",
+        "gap": "90",
+        "dmin": "0.0604",
+        "rms": "0.15",
+        "net": "uw",
+        "id": "uw61247611",
+        "updated": "2017-01-30T18:02:59.160Z",
+        "place": "7km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.44",
+        "depthError": "0.95",
+        "magError": "0.062",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.057,
+          48.5988333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:47:01.506Z",
+        "depth": "5.3",
+        "mag": 0.3,
+        "magType": "ml",
+        "nst": "4",
+        "gap": "157.75",
+        "dmin": "0.058",
+        "rms": "0.0438",
+        "net": "nn",
+        "id": "nn00576180",
+        "updated": "2017-01-30T17:01:02.320Z",
+        "place": "24km E of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "9.6",
+        "magError": "0.09",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3455,
+          38.4933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:46:47.260Z",
+        "depth": "77.56",
+        "mag": 4.6,
+        "magType": "mb",
+        "nst": "",
+        "gap": "126",
+        "dmin": "4.543",
+        "rms": "1.38",
+        "net": "us",
+        "id": "us10007w5x",
+        "updated": "2017-01-30T14:35:00.139Z",
+        "place": "82km W of Santo Tomas, Peru",
+        "type": "earthquake",
+        "horizontalError": "9.2",
+        "depthError": "10.4",
+        "magError": "0.133",
+        "magNst": "17",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8441,
+          -14.492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:34:55.977Z",
+        "depth": "9.8",
+        "mag": 1.2,
+        "magType": "ml",
+        "nst": "16",
+        "gap": "57.68",
+        "dmin": "0.129",
+        "rms": "0.1795",
+        "net": "nn",
+        "id": "nn00576179",
+        "updated": "2017-01-30T16:51:43.263Z",
+        "place": "28km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "2.3",
+        "magError": "0.11",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9161,
+          38.4053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:28:56.460Z",
+        "depth": "8.5",
+        "mag": 0.8,
+        "magType": "ml",
+        "nst": "6",
+        "gap": "175.02",
+        "dmin": "0.34",
+        "rms": "0.0693",
+        "net": "nn",
+        "id": "nn00576178",
+        "updated": "2017-01-30T16:45:21.299Z",
+        "place": "29km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "37.4",
+        "magError": "0",
+        "magNst": "1",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.914,
+          38.3871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:26:01.710Z",
+        "depth": "1.13",
+        "mag": 0.88,
+        "magType": "md",
+        "nst": "9",
+        "gap": "92",
+        "dmin": "0.01004",
+        "rms": "0.02",
+        "net": "nc",
+        "id": "nc72757865",
+        "updated": "2017-01-30T11:43:02.050Z",
+        "place": "7km NW of The Geysers, California",
+        "type": "earthquake",
+        "horizontalError": "0.33",
+        "depthError": "0.59",
+        "magError": "0.1",
+        "magNst": "3",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8203354,
+          38.8161659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:21:38.719Z",
+        "depth": "5.8",
+        "mag": 0.1,
+        "magType": "ml",
+        "nst": "4",
+        "gap": "248.67",
+        "dmin": "0.11",
+        "rms": "0.0242",
+        "net": "nn",
+        "id": "nn00576223",
+        "updated": "2017-01-30T19:14:12.638Z",
+        "place": "23km S of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "16.2",
+        "magError": "0.54",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6193,
+          38.314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:14:37.370Z",
+        "depth": "4.7",
+        "mag": 0.86,
+        "magType": "ml",
+        "nst": "34",
+        "gap": "79",
+        "dmin": "0.147",
+        "rms": "0.24",
+        "net": "ci",
+        "id": "ci37575615",
+        "updated": "2017-01-30T19:16:20.862Z",
+        "place": "17km SE of Ocotillo Wells, CA",
+        "type": "earthquake",
+        "horizontalError": "0.33",
+        "depthError": "1.2",
+        "magError": "0.078",
+        "magNst": "13",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0093333,
+          33.0303333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:08:18.850Z",
+        "depth": "6.57",
+        "mag": 2.5,
+        "magType": "mb_lg",
+        "nst": "",
+        "gap": "63",
+        "dmin": "0.064",
+        "rms": "0.69",
+        "net": "us",
+        "id": "us10007w5t",
+        "updated": "2017-01-30T20:51:24.064Z",
+        "place": "12km SSE of Cushing, Oklahoma",
+        "type": "earthquake",
+        "horizontalError": "1.6",
+        "depthError": "5.3",
+        "magError": "0.084",
+        "magNst": "37",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7335,
+          35.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T11:03:16.720Z",
+        "depth": "14.59",
+        "mag": 3.09,
+        "magType": "ml",
+        "nst": "28",
+        "gap": "78",
+        "dmin": "0.07578",
+        "rms": "0.3",
+        "net": "uw",
+        "id": "uw61247601",
+        "updated": "2017-01-30T21:09:01.344Z",
+        "place": "9km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.43",
+        "depthError": "0.89",
+        "magError": "0.222",
+        "magNst": "22",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0711667,
+          48.6111667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T10:46:48.850Z",
+        "depth": "13.34",
+        "mag": 1.22,
+        "magType": "ml",
+        "nst": "9",
+        "gap": "85",
+        "dmin": "0.07338",
+        "rms": "0.3",
+        "net": "uw",
+        "id": "uw61247591",
+        "updated": "2017-01-30T17:35:22.180Z",
+        "place": "9km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.76",
+        "depthError": "1.79",
+        "magError": "0.049",
+        "magNst": "5",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.078,
+          48.6053333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T10:45:39.197Z",
+        "depth": "14.8",
+        "mag": 1.4,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.3",
+        "net": "ak",
+        "id": "ak15176716",
+        "updated": "2017-01-30T10:56:47.023Z",
+        "place": "7km WSW of North Nenana, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.2",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2447,
+          64.5486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T10:37:34.039Z",
+        "depth": "9.3",
+        "mag": 0.9,
+        "magType": "ml",
+        "nst": "14",
+        "gap": "66.93",
+        "dmin": "0.129",
+        "rms": "0.1756",
+        "net": "nn",
+        "id": "nn00576177",
+        "updated": "2017-01-30T16:36:06.224Z",
+        "place": "28km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "2.7",
+        "magError": "0.17",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9036,
+          38.3865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T10:34:25.353Z",
+        "depth": "0.2",
+        "mag": 1.6,
+        "magType": "ml",
+        "nst": "9",
+        "gap": "108.25",
+        "dmin": "0.689",
+        "rms": "0.1667",
+        "net": "nn",
+        "id": "nn00576176",
+        "updated": "2017-01-30T16:29:48.929Z",
+        "place": "50km ESE of Lovelock, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "3.5",
+        "magError": "0.33",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9363,
+          39.9845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T10:09:06.893Z",
+        "depth": "2.5",
+        "mag": 0.4,
+        "magType": "ml",
+        "nst": "6",
+        "gap": "234.48",
+        "dmin": "0.124",
+        "rms": "0.157",
+        "net": "nn",
+        "id": "nn00576228",
+        "updated": "2017-01-30T19:29:52.039Z",
+        "place": "13km SE of Alamo, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "17",
+        "magError": "0.01",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0491,
+          37.2832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T10:08:21.610Z",
+        "depth": "1.71",
+        "mag": 1.66,
+        "magType": "md",
+        "nst": "25",
+        "gap": "60",
+        "dmin": "0.008431",
+        "rms": "0.03",
+        "net": "nc",
+        "id": "nc72757855",
+        "updated": "2017-01-30T10:26:02.889Z",
+        "place": "5km W of Cobb, California",
+        "type": "earthquake",
+        "horizontalError": "0.21",
+        "depthError": "0.29",
+        "magError": "0.08",
+        "magNst": "8",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7913361,
+          38.8300018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:57:18.372Z",
+        "depth": "6.6",
+        "mag": 0.4,
+        "magType": "ml",
+        "nst": "5",
+        "gap": "135.33",
+        "dmin": "0.128",
+        "rms": "0.1838",
+        "net": "nn",
+        "id": "nn00576187",
+        "updated": "2017-01-30T14:45:22.685Z",
+        "place": "18km SW of Truckee, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "5.5",
+        "magError": "0.6",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.362,
+          39.2284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:56:29.800Z",
+        "depth": "11",
+        "mag": 3,
+        "magType": "Md",
+        "nst": "5",
+        "gap": "309.6",
+        "dmin": "0.33237666",
+        "rms": "0.75",
+        "net": "pr",
+        "id": "pr17030000",
+        "updated": "2017-01-30T11:33:21.935Z",
+        "place": "29km SSW of Charlotte Amalie, U.S. Virgin Islands",
+        "type": "earthquake",
+        "horizontalError": "10",
+        "depthError": "8.1",
+        "magError": "0",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "pr",
+        "magSource": "pr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.019,
+          18.0858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:52:08.746Z",
+        "depth": "7.7",
+        "mag": 0.7,
+        "magType": "ml",
+        "nst": "13",
+        "gap": "93.04",
+        "dmin": "0.145",
+        "rms": "0.1731",
+        "net": "nn",
+        "id": "nn00576175",
+        "updated": "2017-01-30T16:23:27.625Z",
+        "place": "30km SW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "5.9",
+        "magError": "0",
+        "magNst": "1",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9059,
+          38.3621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:46:07.168Z",
+        "depth": "91.8",
+        "mag": 1.8,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.7",
+        "net": "ak",
+        "id": "ak15176713",
+        "updated": "2017-01-30T09:54:30.361Z",
+        "place": "40km SSE of Redoubt Volcano, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "1",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.4525,
+          60.1495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:45:34.275Z",
+        "depth": "9.5",
+        "mag": 0.3,
+        "magType": "ml",
+        "nst": "7",
+        "gap": "122.82",
+        "dmin": "0.118",
+        "rms": "0.1126",
+        "net": "nn",
+        "id": "nn00576186",
+        "updated": "2017-01-30T14:39:06.816Z",
+        "place": "6km NNE of Truckee, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "2.3",
+        "magError": "0.33",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.146,
+          39.3744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:44:39.620Z",
+        "depth": "12.19",
+        "mag": 1.06,
+        "magType": "ml",
+        "nst": "15",
+        "gap": "107",
+        "dmin": "0.08674",
+        "rms": "0.16",
+        "net": "ci",
+        "id": "ci37575607",
+        "updated": "2017-01-30T19:24:28.598Z",
+        "place": "3km NNW of El Centro, CA",
+        "type": "earthquake",
+        "horizontalError": "0.34",
+        "depthError": "0.73",
+        "magError": "0.169",
+        "magNst": "6",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5718333,
+          32.815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:43:24.463Z",
+        "depth": "33.8",
+        "mag": 1.6,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.2",
+        "net": "ak",
+        "id": "ak15176712",
+        "updated": "2017-01-30T09:50:43.742Z",
+        "place": "43km ENE of Sterling, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.2",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.0996,
+          60.7462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:36:56.170Z",
+        "depth": "7.57",
+        "mag": 0.56,
+        "magType": "ml",
+        "nst": "26",
+        "gap": "91",
+        "dmin": "0.0742",
+        "rms": "0.1",
+        "net": "ci",
+        "id": "ci37575599",
+        "updated": "2017-01-30T19:14:07.880Z",
+        "place": "16km N of Warner Springs, CA",
+        "type": "earthquake",
+        "horizontalError": "0.2",
+        "depthError": "0.4",
+        "magError": "0.133",
+        "magNst": "14",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.6156667,
+          33.4211667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:34:31.310Z",
+        "depth": "36.03",
+        "mag": 2.02,
+        "magType": "md",
+        "nst": "23",
+        "gap": "94",
+        "dmin": "0.04493",
+        "rms": "0.12",
+        "net": "hv",
+        "id": "hv61584946",
+        "updated": "2017-01-30T09:37:44.440Z",
+        "place": "3km SW of Pahala, Hawaii",
+        "type": "earthquake",
+        "horizontalError": "0.59",
+        "depthError": "0.88",
+        "magError": "0.14",
+        "magNst": "5",
+        "status": "automatic",
+        "locationSource": "hv",
+        "magSource": "hv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.5006714,
+          19.1818333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:12:44.780Z",
+        "depth": "14.81",
+        "mag": 2.46,
+        "magType": "md",
+        "nst": "48",
+        "gap": "136",
+        "dmin": "0.1529",
+        "rms": "0.1",
+        "net": "nm",
+        "id": "nm60173686",
+        "updated": "2017-01-30T20:55:32.959Z",
+        "place": "11km W of Chaffee, Missouri",
+        "type": "earthquake",
+        "horizontalError": "0.24",
+        "depthError": "0.35",
+        "magError": "0.045",
+        "magNst": "25",
+        "status": "reviewed",
+        "locationSource": "nm",
+        "magSource": "nm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7815,
+          37.1805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:05:34.750Z",
+        "depth": "2.29",
+        "mag": 2.8,
+        "magType": "mb_lg",
+        "nst": "",
+        "gap": "42",
+        "dmin": "0.135",
+        "rms": "0.38",
+        "net": "us",
+        "id": "us10007w5f",
+        "updated": "2017-01-30T13:05:53.040Z",
+        "place": "22km WSW of Medford, Oklahoma",
+        "type": "earthquake",
+        "horizontalError": "1.1",
+        "depthError": "7.8",
+        "magError": "0.067",
+        "magNst": "58",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9786,
+          36.7552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T09:01:38.500Z",
+        "depth": "13.29",
+        "mag": 0.97,
+        "magType": "ml",
+        "nst": "13",
+        "gap": "142",
+        "dmin": "0.1403",
+        "rms": "0.13",
+        "net": "ci",
+        "id": "ci37575591",
+        "updated": "2017-01-30T19:22:09.424Z",
+        "place": "3km S of Granada Hills, CA",
+        "type": "earthquake",
+        "horizontalError": "0.44",
+        "depthError": "0.88",
+        "magError": "0.161",
+        "magNst": "23",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5038333,
+          34.2468333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T08:44:04.462Z",
+        "depth": "0",
+        "mag": 1.1,
+        "magType": "ml",
+        "nst": "14",
+        "gap": "73.57",
+        "dmin": "0.174",
+        "rms": "0.172",
+        "net": "nn",
+        "id": "nn00576174",
+        "updated": "2017-01-30T16:07:55.737Z",
+        "place": "46km NE of Mammoth Lakes, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0",
+        "magError": "0.14",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5393,
+          37.8869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T08:18:18.763Z",
+        "depth": "21.2",
+        "mag": 1.9,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.7",
+        "net": "ak",
+        "id": "ak15176592",
+        "updated": "2017-01-30T08:26:29.954Z",
+        "place": "91km NW of Middleton Island, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.3",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.4217,
+          60.0408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T08:10:40.870Z",
+        "depth": "14.42",
+        "mag": 1.38,
+        "magType": "ml",
+        "nst": "14",
+        "gap": "84",
+        "dmin": "0.06407",
+        "rms": "0.21",
+        "net": "uw",
+        "id": "uw61247586",
+        "updated": "2017-01-30T17:40:07.470Z",
+        "place": "8km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.38",
+        "depthError": "0.84",
+        "magError": "0.059",
+        "magNst": "7",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.062,
+          48.6011667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T08:06:00.240Z",
+        "depth": "9.1",
+        "mag": 0.6,
+        "magType": "ml",
+        "nst": "9",
+        "gap": "123.43",
+        "dmin": "0.313",
+        "rms": "0.1012",
+        "net": "nn",
+        "id": "nn00576173",
+        "updated": "2017-01-30T16:01:34.738Z",
+        "place": "29km ENE of Bridgeport, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "12.9",
+        "magError": "0",
+        "magNst": "1",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9141,
+          38.3579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T07:49:13.670Z",
+        "depth": "15.08",
+        "mag": 0.44,
+        "magType": "ml",
+        "nst": "22",
+        "gap": "104",
+        "dmin": "0.06467",
+        "rms": "0.15",
+        "net": "ci",
+        "id": "ci37575583",
+        "updated": "2017-01-30T19:29:06.492Z",
+        "place": "21km ESE of Anza, CA",
+        "type": "earthquake",
+        "horizontalError": "0.28",
+        "depthError": "0.58",
+        "magError": "0.165",
+        "magNst": "10",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4718333,
+          33.4713333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T07:38:45.073Z",
+        "depth": "7.5",
+        "mag": 1.3,
+        "magType": "ml",
+        "nst": "14",
+        "gap": "63.99",
+        "dmin": "0.141",
+        "rms": "0.1376",
+        "net": "nn",
+        "id": "nn00576172",
+        "updated": "2017-01-30T14:35:50.331Z",
+        "place": "30km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "3.1",
+        "magError": "0.08",
+        "magNst": "7",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9292,
+          38.3988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T07:37:02.610Z",
+        "depth": "1.8",
+        "mag": 0.18,
+        "magType": "ml",
+        "nst": "7",
+        "gap": "185",
+        "dmin": "0.03562",
+        "rms": "0.05",
+        "net": "ci",
+        "id": "ci37575575",
+        "updated": "2017-01-30T18:47:33.415Z",
+        "place": "13km E of Coso Junction, CA",
+        "type": "earthquake",
+        "horizontalError": "0.19",
+        "depthError": "0.18",
+        "magError": "0.358",
+        "magNst": "5",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8091667,
+          36.0238333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T07:33:59.420Z",
+        "depth": "18.03",
+        "mag": 0.69,
+        "magType": "md",
+        "nst": "7",
+        "gap": "171",
+        "dmin": "0.0069",
+        "rms": "0.07",
+        "net": "nc",
+        "id": "nc72757840",
+        "updated": "2017-01-30T07:49:01.571Z",
+        "place": "7km WNW of The Geysers, California",
+        "type": "earthquake",
+        "horizontalError": "3.55",
+        "depthError": "6.19",
+        "magError": "",
+        "magNst": "1",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8379974,
+          38.8084984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T07:16:44.531Z",
+        "depth": "71.8",
+        "mag": 1.7,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.5",
+        "net": "ak",
+        "id": "ak15176587",
+        "updated": "2017-01-30T07:34:41.680Z",
+        "place": "60km WSW of Talkeetna, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.9",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0638,
+          62.0215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T07:06:45.627Z",
+        "depth": "8.3",
+        "mag": 0.6,
+        "magType": "ml",
+        "nst": "8",
+        "gap": "213.44",
+        "dmin": "0.104",
+        "rms": "0.1624",
+        "net": "nn",
+        "id": "nn00576170",
+        "updated": "2017-01-30T15:20:09.011Z",
+        "place": "25km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "2.4",
+        "magError": "0.25",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8949,
+          38.4333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T07:00:37.693Z",
+        "depth": "7.8",
+        "mag": 1,
+        "magType": "ml",
+        "nst": "12",
+        "gap": "56.88",
+        "dmin": "0.142",
+        "rms": "0.1281",
+        "net": "nn",
+        "id": "nn00576196",
+        "updated": "2017-01-30T15:16:56.642Z",
+        "place": "30km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "3.4",
+        "magError": "0.17",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9311,
+          38.4002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T06:55:40.340Z",
+        "depth": "1.89",
+        "mag": 0.43,
+        "magType": "md",
+        "nst": "7",
+        "gap": "106",
+        "dmin": "0.006798",
+        "rms": "0.02",
+        "net": "nc",
+        "id": "nc72757835",
+        "updated": "2017-01-30T07:11:02.501Z",
+        "place": "9km W of Cobb, California",
+        "type": "earthquake",
+        "horizontalError": "0.48",
+        "depthError": "0.91",
+        "magError": "0.14",
+        "magNst": "2",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8268356,
+          38.8378334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T06:15:54.366Z",
+        "depth": "8.9",
+        "mag": 0.1,
+        "magType": "ml",
+        "nst": "6",
+        "gap": "117.44",
+        "dmin": "0.106",
+        "rms": "0.1309",
+        "net": "nn",
+        "id": "nn00576195",
+        "updated": "2017-01-30T15:13:36.179Z",
+        "place": "11km NNE of Incline Village, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "3.4",
+        "magError": "0.2",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9175,
+          39.3445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T06:01:17.750Z",
+        "depth": "54.13",
+        "mag": 5,
+        "magType": "mb",
+        "nst": "",
+        "gap": "50",
+        "dmin": "1.351",
+        "rms": "0.79",
+        "net": "us",
+        "id": "us10007w4t",
+        "updated": "2017-01-30T06:40:46.040Z",
+        "place": "137km SSW of Kokopo, Papua New Guinea",
+        "type": "earthquake",
+        "horizontalError": "8.7",
+        "depthError": "5.9",
+        "magError": "0.055",
+        "magNst": "105",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7385,
+          -5.4828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T05:54:38.491Z",
+        "depth": "0",
+        "mag": 2.3,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.8",
+        "net": "ak",
+        "id": "ak15176463",
+        "updated": "2017-01-30T06:06:00.562Z",
+        "place": "78km NE of Cape Yakataga, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.3",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.3284,
+          60.5046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T05:34:21.840Z",
+        "depth": "3.72",
+        "mag": 2.8,
+        "magType": "mb_lg",
+        "nst": "",
+        "gap": "28",
+        "dmin": "0.146",
+        "rms": "0.39",
+        "net": "us",
+        "id": "us10007w4q",
+        "updated": "2017-01-30T07:26:05.648Z",
+        "place": "16km WNW of Blackwell, Oklahoma",
+        "type": "earthquake",
+        "horizontalError": "1.2",
+        "depthError": "7",
+        "magError": "0.061",
+        "magNst": "69",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4495,
+          36.8684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T05:34:09.400Z",
+        "depth": "2.94",
+        "mag": 2.6,
+        "magType": "mb_lg",
+        "nst": "",
+        "gap": "59",
+        "dmin": "0.149",
+        "rms": "0.23",
+        "net": "us",
+        "id": "us10007w4n",
+        "updated": "2017-01-30T13:36:47.120Z",
+        "place": "15km WNW of Blackwell, Oklahoma",
+        "type": "earthquake",
+        "horizontalError": "1.2",
+        "depthError": "3.9",
+        "magError": "0.084",
+        "magNst": "37",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4428,
+          36.8657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T05:23:02.381Z",
+        "depth": "12",
+        "mag": 0.5,
+        "magType": "ml",
+        "nst": "23",
+        "gap": "70.06",
+        "dmin": "0.073",
+        "rms": "0.1556",
+        "net": "nn",
+        "id": "nn00576168",
+        "updated": "2017-01-30T15:55:16.620Z",
+        "place": "76km N of Pahrump, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "1.3",
+        "magError": "0.47",
+        "magNst": "6",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9043,
+          36.8952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T05:20:36.340Z",
+        "depth": "9.18",
+        "mag": 1.33,
+        "magType": "md",
+        "nst": "10",
+        "gap": "151",
+        "dmin": "0.01967",
+        "rms": "0.05",
+        "net": "nc",
+        "id": "nc72757830",
+        "updated": "2017-01-30T05:36:02.320Z",
+        "place": "6km NNE of East Foothills, California",
+        "type": "earthquake",
+        "horizontalError": "0.76",
+        "depthError": "0.54",
+        "magError": "0.2",
+        "magNst": "7",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7829971,
+          37.4363327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T05:01:42.620Z",
+        "depth": "78.1",
+        "mag": 1.6,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.59",
+        "net": "ak",
+        "id": "ak15176459",
+        "updated": "2017-01-30T05:09:55.935Z",
+        "place": "29km W of Kalifornsky, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "1.2",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.8329,
+          60.4274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T04:57:28.758Z",
+        "depth": "0",
+        "mag": 0.1,
+        "magType": "ml",
+        "nst": "14",
+        "gap": "190.61",
+        "dmin": "0.189",
+        "rms": "0.1198",
+        "net": "nn",
+        "id": "nn00576167",
+        "updated": "2017-01-30T15:45:30.904Z",
+        "place": "38km SE of Beatty, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0",
+        "magError": "0.17",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4382,
+          36.6734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T04:54:43.300Z",
+        "depth": "9.22",
+        "mag": 1.02,
+        "magType": "ml",
+        "nst": "27",
+        "gap": "48",
+        "dmin": "0.07044",
+        "rms": "0.18",
+        "net": "ci",
+        "id": "ci37575567",
+        "updated": "2017-01-30T19:16:57.016Z",
+        "place": "3km S of Big Bear City, CA",
+        "type": "earthquake",
+        "horizontalError": "0.29",
+        "depthError": "0.67",
+        "magError": "0.18",
+        "magNst": "25",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8443333,
+          34.2313333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T04:09:35.302Z",
+        "depth": "0",
+        "mag": 1.6,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.88",
+        "net": "ak",
+        "id": "ak15176451",
+        "updated": "2017-01-30T04:22:46.790Z",
+        "place": "12km W of Circle Hot Springs Station, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.4",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -144.9598,
+          65.455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T04:09:07.927Z",
+        "depth": "10.3",
+        "mag": 0.7,
+        "magType": "ml",
+        "nst": "6",
+        "gap": "104.91",
+        "dmin": "0.048",
+        "rms": "0.0747",
+        "net": "nn",
+        "id": "nn00576166",
+        "updated": "2017-01-30T15:10:24.322Z",
+        "place": "5km SSW of Cold Springs, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "1.9",
+        "magError": "0.35",
+        "magNst": "5",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0089,
+          39.6379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T04:07:02.714Z",
+        "depth": "58.7",
+        "mag": 2.1,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.55",
+        "net": "ak",
+        "id": "ak15176448",
+        "updated": "2017-01-30T04:19:00.125Z",
+        "place": "96km SSW of Homer, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.7",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.2237,
+          58.8492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T04:02:34.271Z",
+        "depth": "13.5",
+        "mag": 0.1,
+        "magType": "ml",
+        "nst": "4",
+        "gap": "156.69",
+        "dmin": "0.226",
+        "rms": "0.0982",
+        "net": "nn",
+        "id": "nn00576210",
+        "updated": "2017-01-30T17:32:30.779Z",
+        "place": "61km WNW of Beatty, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "8.9",
+        "magError": "0.04",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3845,
+          37.1442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T03:42:49.020Z",
+        "depth": "0.89",
+        "mag": 0.56,
+        "magType": "md",
+        "nst": "7",
+        "gap": "107",
+        "dmin": "0.01721",
+        "rms": "0.02",
+        "net": "nc",
+        "id": "nc72757815",
+        "updated": "2017-01-30T04:12:02.136Z",
+        "place": "1km NNW of The Geysers, California",
+        "type": "earthquake",
+        "horizontalError": "0.55",
+        "depthError": "1.25",
+        "magError": "0.08",
+        "magNst": "3",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7665024,
+          38.7891655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T03:25:33.850Z",
+        "depth": "7.64",
+        "mag": 2.2,
+        "magType": "md",
+        "nst": "32",
+        "gap": "84",
+        "dmin": "0.1189",
+        "rms": "0.15",
+        "net": "nc",
+        "id": "nc72757805",
+        "updated": "2017-01-30T03:48:30.458Z",
+        "place": "7km NNW of Kenwood, California",
+        "type": "earthquake",
+        "horizontalError": "0.28",
+        "depthError": "1.05",
+        "magError": "0.14",
+        "magNst": "25",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5650024,
+          38.4799995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T03:23:26.516Z",
+        "depth": "8.4",
+        "mag": 0.6,
+        "magType": "ml",
+        "nst": "8",
+        "gap": "218.96",
+        "dmin": "0.121",
+        "rms": "0.1844",
+        "net": "nn",
+        "id": "nn00576192",
+        "updated": "2017-01-30T15:07:14.088Z",
+        "place": "27km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "2.1",
+        "magError": "0.59",
+        "magNst": "5",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9094,
+          38.4128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T03:00:33.660Z",
+        "depth": "15.34",
+        "mag": 1.02,
+        "magType": "ml",
+        "nst": "38",
+        "gap": "74",
+        "dmin": "0.07899",
+        "rms": "0.14",
+        "net": "ci",
+        "id": "ci37575543",
+        "updated": "2017-01-30T19:27:21.596Z",
+        "place": "2km SSW of Loma Linda, CA",
+        "type": "earthquake",
+        "horizontalError": "0.18",
+        "depthError": "0.33",
+        "magError": "0.078",
+        "magNst": "21",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2691667,
+          34.0358333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T02:50:00.240Z",
+        "depth": "11.48",
+        "mag": 0.84,
+        "magType": "ml",
+        "nst": "25",
+        "gap": "62",
+        "dmin": "0.08196",
+        "rms": "0.26",
+        "net": "ci",
+        "id": "ci37575535",
+        "updated": "2017-01-30T19:28:01.516Z",
+        "place": "6km ESE of Valle Vista, CA",
+        "type": "earthquake",
+        "horizontalError": "0.52",
+        "depthError": "0.95",
+        "magError": "0.217",
+        "magNst": "25",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.834,
+          33.7205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T02:43:58.000Z",
+        "depth": "74.47",
+        "mag": 5.1,
+        "magType": "mb",
+        "nst": "",
+        "gap": "88",
+        "dmin": "2.848",
+        "rms": "0.87",
+        "net": "us",
+        "id": "us10007w4d",
+        "updated": "2017-01-30T03:03:30.363Z",
+        "place": "6km ENE of Libas, Philippines",
+        "type": "earthquake",
+        "horizontalError": "9.1",
+        "depthError": "6.9",
+        "magError": "0.046",
+        "magNst": "156",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.045,
+          9.8989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T02:27:52.840Z",
+        "depth": "14.62",
+        "mag": 2.81,
+        "magType": "ml",
+        "nst": "27",
+        "gap": "78",
+        "dmin": "0.07586",
+        "rms": "0.28",
+        "net": "uw",
+        "id": "uw61247496",
+        "updated": "2017-01-30T17:30:26.749Z",
+        "place": "9km NNW of Friday Harbor, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.42",
+        "depthError": "0.91",
+        "magError": "0.19",
+        "magNst": "19",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0718333,
+          48.611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T02:20:31.701Z",
+        "depth": "8.9",
+        "mag": 0.8,
+        "magType": "ml",
+        "nst": "5",
+        "gap": "180",
+        "dmin": "0.311",
+        "rms": "0.0505",
+        "net": "nn",
+        "id": "nn00576208",
+        "updated": "2017-01-30T17:23:07.696Z",
+        "place": "28km ENE of Bridgeport, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "27.1",
+        "magError": "0",
+        "magNst": "1",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9235,
+          38.3528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T02:12:18.370Z",
+        "depth": "125.2",
+        "mag": 4.6,
+        "magType": "mb",
+        "nst": "",
+        "gap": "162",
+        "dmin": "6.68",
+        "rms": "0.55",
+        "net": "us",
+        "id": "us10007w49",
+        "updated": "2017-01-30T02:50:50.040Z",
+        "place": "Kuril Islands",
+        "type": "earthquake",
+        "horizontalError": "8.9",
+        "depthError": "6.4",
+        "magError": "0.044",
+        "magNst": "153",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5599,
+          47.6023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T02:09:30.180Z",
+        "depth": "133.2",
+        "mag": 1.6,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.2",
+        "net": "ak",
+        "id": "ak15176317",
+        "updated": "2017-01-30T02:15:02.255Z",
+        "place": "80km W of Cantwell, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.9",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.5233,
+          63.2431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T02:06:26.870Z",
+        "depth": "2.72",
+        "mag": 1.6,
+        "magType": "md",
+        "nst": "24",
+        "gap": "56",
+        "dmin": "0.004868",
+        "rms": "0.06",
+        "net": "nc",
+        "id": "nc72757800",
+        "updated": "2017-01-30T02:24:01.925Z",
+        "place": "9km WNW of Cobb, California",
+        "type": "earthquake",
+        "horizontalError": "0.28",
+        "depthError": "0.55",
+        "magError": "0.13",
+        "magNst": "8",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8296661,
+          38.840332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T02:02:34.300Z",
+        "depth": "8.04",
+        "mag": 0.9,
+        "magType": "ml",
+        "nst": "5",
+        "gap": "154",
+        "dmin": "0.1468",
+        "rms": "0.09",
+        "net": "uu",
+        "id": "uu60183582",
+        "updated": "2017-01-30T17:18:43.550Z",
+        "place": "18km W of Cedar City, Utah",
+        "type": "earthquake",
+        "horizontalError": "0.47",
+        "depthError": "1.49",
+        "magError": "0.002",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "uu",
+        "magSource": "uu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2686667,
+          37.6771667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T01:50:38.700Z",
+        "depth": "12.66",
+        "mag": 1.55,
+        "magType": "md",
+        "nst": "15",
+        "gap": "106",
+        "dmin": "0.06082",
+        "rms": "0.06",
+        "net": "nc",
+        "id": "nc72757795",
+        "updated": "2017-01-30T02:06:01.880Z",
+        "place": "1km S of Concord, California",
+        "type": "earthquake",
+        "horizontalError": "0.38",
+        "depthError": "1.23",
+        "magError": "0.13",
+        "magNst": "12",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0329971,
+          37.9674988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T01:46:35.510Z",
+        "depth": "14.29",
+        "mag": 2.25,
+        "magType": "md",
+        "nst": "38",
+        "gap": "50",
+        "dmin": "0.057",
+        "rms": "0.08",
+        "net": "nm",
+        "id": "nm60173676",
+        "updated": "2017-01-30T15:57:51.470Z",
+        "place": "9km N of New Madrid, Missouri",
+        "type": "earthquake",
+        "horizontalError": "0.25",
+        "depthError": "0.29",
+        "magError": "0.118",
+        "magNst": "21",
+        "status": "reviewed",
+        "locationSource": "nm",
+        "magSource": "nm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5156667,
+          36.671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T01:44:44.640Z",
+        "depth": "1.61",
+        "mag": 1.07,
+        "magType": "ml",
+        "nst": "19",
+        "gap": "151",
+        "dmin": "0.1336",
+        "rms": "0.12",
+        "net": "ci",
+        "id": "ci37575527",
+        "updated": "2017-01-30T21:28:09.352Z",
+        "place": "15km ESE of Lake Isabella, CA",
+        "type": "earthquake",
+        "horizontalError": "0.24",
+        "depthError": "0.27",
+        "magError": "0.104",
+        "magNst": "10",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3216667,
+          35.5635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T01:31:20.392Z",
+        "depth": "0",
+        "mag": 0.6,
+        "magType": "ml",
+        "nst": "5",
+        "gap": "251.41",
+        "dmin": "0.096",
+        "rms": "0.0849",
+        "net": "nn",
+        "id": "nn00576213",
+        "updated": "2017-01-30T18:34:02.656Z",
+        "place": "62km ENE of Searles Valley, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0",
+        "magError": "0.1",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7527,
+          35.9478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T01:16:11.193Z",
+        "depth": "12.4",
+        "mag": 0.5,
+        "magType": "ml",
+        "nst": "21",
+        "gap": "209.68",
+        "dmin": "0.072",
+        "rms": "0.1056",
+        "net": "nn",
+        "id": "nn00576152",
+        "updated": "2017-01-30T15:32:53.139Z",
+        "place": "76km N of Pahrump, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.9",
+        "magError": "0.25",
+        "magNst": "10",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9016,
+          36.8979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T01:14:17.660Z",
+        "depth": "-0.31",
+        "mag": 0.66,
+        "magType": "md",
+        "nst": "6",
+        "gap": "143",
+        "dmin": "0.08448",
+        "rms": "0.16",
+        "net": "nc",
+        "id": "nc72757785",
+        "updated": "2017-01-30T21:52:40.818Z",
+        "place": "5km ENE of San Martin, California",
+        "type": "earthquake",
+        "horizontalError": "0.89",
+        "depthError": "1.82",
+        "magError": "0.169",
+        "magNst": "6",
+        "status": "reviewed",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5538333,
+          37.099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T01:10:29.590Z",
+        "depth": "2.07",
+        "mag": 1.25,
+        "magType": "md",
+        "nst": "14",
+        "gap": "95",
+        "dmin": "0.01596",
+        "rms": "0.03",
+        "net": "nc",
+        "id": "nc72757780",
+        "updated": "2017-01-30T01:28:02.799Z",
+        "place": "2km SSW of Cobb, California",
+        "type": "earthquake",
+        "horizontalError": "0.29",
+        "depthError": "0.79",
+        "magError": "0.21",
+        "magNst": "5",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7348328,
+          38.8045006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:54:59.500Z",
+        "depth": "-0.07",
+        "mag": 1.77,
+        "magType": "ml",
+        "nst": "24",
+        "gap": "73",
+        "dmin": "0.1148",
+        "rms": "0.15",
+        "net": "ci",
+        "id": "ci37575519",
+        "updated": "2017-01-30T21:21:11.144Z",
+        "place": "6km N of Olancha, CA",
+        "type": "earthquake",
+        "horizontalError": "0.22",
+        "depthError": "0.61",
+        "magError": "0.111",
+        "magNst": "29",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0103333,
+          36.3396667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:52:47.170Z",
+        "depth": "7.16",
+        "mag": 1.4,
+        "magType": "ml",
+        "nst": "35",
+        "gap": "69",
+        "dmin": "0.112",
+        "rms": "0.2",
+        "net": "ci",
+        "id": "ci37575511",
+        "updated": "2017-01-30T21:45:08.090Z",
+        "place": "24km NW of Ocotillo, CA",
+        "type": "earthquake",
+        "horizontalError": "0.24",
+        "depthError": "0.86",
+        "magError": "0.143",
+        "magNst": "30",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2015,
+          32.8615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:50:43.234Z",
+        "depth": "2.9",
+        "mag": 0.5,
+        "magType": "ml",
+        "nst": "8",
+        "gap": "208.48",
+        "dmin": "0.585",
+        "rms": "0.17",
+        "net": "nn",
+        "id": "nn00576205",
+        "updated": "2017-01-30T17:13:41.804Z",
+        "place": "32km E of Lone Pine, California",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "6",
+        "magError": "0.08",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6972,
+          36.636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:44:41.310Z",
+        "depth": "-0.07",
+        "mag": 1.09,
+        "magType": "ml",
+        "nst": "10",
+        "gap": "137",
+        "dmin": "0.133",
+        "rms": "0.1",
+        "net": "mb",
+        "id": "mb80198124",
+        "updated": "2017-01-30T21:53:14.410Z",
+        "place": "50km WSW of Kalispell, Montana",
+        "type": "earthquake",
+        "horizontalError": "0.46",
+        "depthError": "1.34",
+        "magError": "0.219",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "mb",
+        "magSource": "mb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8981667,
+          47.9616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:44:21.280Z",
+        "depth": "1.29",
+        "mag": 0.3,
+        "magType": "ml",
+        "nst": "10",
+        "gap": "129",
+        "dmin": "0.02741",
+        "rms": "0.09",
+        "net": "ci",
+        "id": "ci37575503",
+        "updated": "2017-01-30T18:45:01.238Z",
+        "place": "13km NE of Little Lake, CA",
+        "type": "earthquake",
+        "horizontalError": "0.19",
+        "depthError": "0.21",
+        "magError": "0.305",
+        "magNst": "6",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7983333,
+          36.0195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:32:12.600Z",
+        "depth": "7.11",
+        "mag": 0.66,
+        "magType": "ml",
+        "nst": "10",
+        "gap": "132",
+        "dmin": "0.06145",
+        "rms": "0.05",
+        "net": "ci",
+        "id": "ci37575495",
+        "updated": "2017-01-30T19:15:26.137Z",
+        "place": "4km SSW of Little Lake, CA",
+        "type": "earthquake",
+        "horizontalError": "0.27",
+        "depthError": "0.63",
+        "magError": "0.242",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9181667,
+          35.903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:17:15.000Z",
+        "depth": "3.89",
+        "mag": 0.6,
+        "magType": "md",
+        "nst": "11",
+        "gap": "247",
+        "dmin": "0.1033",
+        "rms": "0.04",
+        "net": "nc",
+        "id": "nc72757760",
+        "updated": "2017-01-30T21:47:39.027Z",
+        "place": "21km SE of Mammoth Lakes, California",
+        "type": "earthquake",
+        "horizontalError": "0.55",
+        "depthError": "1.73",
+        "magError": "0.292",
+        "magNst": "10",
+        "status": "reviewed",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8346667,
+          37.4866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:14:36.990Z",
+        "depth": "7.91",
+        "mag": 1.35,
+        "magType": "ml",
+        "nst": "14",
+        "gap": "65",
+        "dmin": "0.126",
+        "rms": "0.13",
+        "net": "mb",
+        "id": "mb80198069",
+        "updated": "2017-01-30T16:46:02.880Z",
+        "place": "9km NE of Lima, Montana",
+        "type": "earthquake",
+        "horizontalError": "0.32",
+        "depthError": "1.46",
+        "magError": "0.084",
+        "magNst": "3",
+        "status": "reviewed",
+        "locationSource": "mb",
+        "magSource": "mb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.502,
+          44.6928333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:14:11.620Z",
+        "depth": "5",
+        "mag": 2.5,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.65",
+        "net": "ak",
+        "id": "ak15176308",
+        "updated": "2017-01-30T00:21:31.680Z",
+        "place": "132km SSE of Coldfoot, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.3",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.2039,
+          66.1366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:14:06.185Z",
+        "depth": "8.3",
+        "mag": 1.9,
+        "magType": "ml",
+        "nst": "",
+        "gap": "",
+        "dmin": "",
+        "rms": "0.8",
+        "net": "ak",
+        "id": "ak15176306",
+        "updated": "2017-01-30T00:28:23.318Z",
+        "place": "26km NNE of Badger, Alaska",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "0.4",
+        "magError": "",
+        "magNst": "",
+        "status": "automatic",
+        "locationSource": "ak",
+        "magSource": "ak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.2976,
+          65.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-30T00:08:59.460Z",
+        "depth": "14.69",
+        "mag": 0.51,
+        "magType": "ml",
+        "nst": "10",
+        "gap": "192",
+        "dmin": "0.09944",
+        "rms": "0.07",
+        "net": "ci",
+        "id": "ci37575487",
+        "updated": "2017-01-30T18:42:29.124Z",
+        "place": "18km ESE of Anza, CA",
+        "type": "earthquake",
+        "horizontalError": "0.37",
+        "depthError": "0.65",
+        "magError": "0.082",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.484,
+          33.5063333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T23:35:37.990Z",
+        "depth": "180.56",
+        "mag": 4.8,
+        "magType": "mb",
+        "nst": "",
+        "gap": "99",
+        "dmin": "8.387",
+        "rms": "0.79",
+        "net": "us",
+        "id": "us10007w3w",
+        "updated": "2017-01-29T23:53:53.040Z",
+        "place": "55km NNW of Agrihan, Northern Mariana Islands",
+        "type": "earthquake",
+        "horizontalError": "9.9",
+        "depthError": "6",
+        "magError": "0.047",
+        "magNst": "139",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4798,
+          19.2377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T23:31:49.390Z",
+        "depth": "7.89",
+        "mag": 1.33,
+        "magType": "ml",
+        "nst": "27",
+        "gap": "82",
+        "dmin": "0.1019",
+        "rms": "0.18",
+        "net": "ci",
+        "id": "ci37575479",
+        "updated": "2017-01-30T19:30:33.248Z",
+        "place": "34km NNW of Yucca Valley, CA",
+        "type": "earthquake",
+        "horizontalError": "0.35",
+        "depthError": "0.91",
+        "magError": "0.176",
+        "magNst": "26",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5055,
+          34.4166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T23:27:04.020Z",
+        "depth": "11.64",
+        "mag": 0.16,
+        "magType": "md",
+        "nst": "6",
+        "gap": "161",
+        "dmin": "0.01625",
+        "rms": "0.21",
+        "net": "uu",
+        "id": "uu60183572",
+        "updated": "2017-01-30T17:09:55.290Z",
+        "place": "13km NNW of West Yellowstone, Montana",
+        "type": "earthquake",
+        "horizontalError": "1.29",
+        "depthError": "1.14",
+        "magError": "0.117",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "uu",
+        "magSource": "uu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.187,
+          44.7656667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T23:18:51.452Z",
+        "depth": "9.9",
+        "mag": 0.5,
+        "magType": "ml",
+        "nst": "6",
+        "gap": "290.91",
+        "dmin": "0.145",
+        "rms": "0.1461",
+        "net": "nn",
+        "id": "nn00576160",
+        "updated": "2017-01-30T02:01:23.716Z",
+        "place": "30km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "9.8",
+        "magError": "0.38",
+        "magNst": "4",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9399,
+          38.4072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T23:13:14.383Z",
+        "depth": "8",
+        "mag": 0.5,
+        "magType": "ml",
+        "nst": "5",
+        "gap": "289.84",
+        "dmin": "0.138",
+        "rms": "0.1704",
+        "net": "nn",
+        "id": "nn00576159",
+        "updated": "2017-01-30T01:58:18.751Z",
+        "place": "29km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "9.6",
+        "magError": "0.26",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9317,
+          38.411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T23:10:37.333Z",
+        "depth": "7.1",
+        "mag": 0.9,
+        "magType": "ml",
+        "nst": "11",
+        "gap": "86.61",
+        "dmin": "0.111",
+        "rms": "0.1318",
+        "net": "nn",
+        "id": "nn00576156",
+        "updated": "2017-01-30T01:58:18.227Z",
+        "place": "26km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "3.7",
+        "magError": "0.12",
+        "magNst": "2",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9026,
+          38.4277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T23:09:00.290Z",
+        "depth": "5",
+        "mag": 2.6,
+        "magType": "mb_lg",
+        "nst": "",
+        "gap": "58",
+        "dmin": "0.199",
+        "rms": "0.56",
+        "net": "us",
+        "id": "us10007w3n",
+        "updated": "2017-01-29T23:38:21.040Z",
+        "place": "9km SSW of Cherokee, Oklahoma",
+        "type": "earthquake",
+        "horizontalError": "1.2",
+        "depthError": "1.9",
+        "magError": "0.089",
+        "magNst": "33",
+        "status": "reviewed",
+        "locationSource": "us",
+        "magSource": "us"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4093,
+          36.6838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T23:08:22.120Z",
+        "depth": "1.2",
+        "mag": 0.45,
+        "magType": "ml",
+        "nst": "8",
+        "gap": "84",
+        "dmin": "0.02364",
+        "rms": "0.07",
+        "net": "uw",
+        "id": "uw61247486",
+        "updated": "2017-01-30T01:19:54.130Z",
+        "place": "28km NNW of Packwood, Washington",
+        "type": "earthquake",
+        "horizontalError": "0.37",
+        "depthError": "0.9",
+        "magError": "0.102",
+        "magNst": "5",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7593333,
+          46.856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T22:57:26.730Z",
+        "depth": "13.88",
+        "mag": 0.56,
+        "magType": "ml",
+        "nst": "18",
+        "gap": "92",
+        "dmin": "0.04766",
+        "rms": "0.16",
+        "net": "ci",
+        "id": "ci37575455",
+        "updated": "2017-01-30T19:10:33.329Z",
+        "place": "8km S of Idyllwild, CA",
+        "type": "earthquake",
+        "horizontalError": "0.43",
+        "depthError": "0.69",
+        "magError": "0.212",
+        "magNst": "17",
+        "status": "reviewed",
+        "locationSource": "ci",
+        "magSource": "ci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.7273333,
+          33.6646667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T22:51:19.480Z",
+        "depth": "1.4",
+        "mag": 0.73,
+        "magType": "md",
+        "nst": "9",
+        "gap": "122",
+        "dmin": "0.01472",
+        "rms": "0.02",
+        "net": "nc",
+        "id": "nc72757730",
+        "updated": "2017-01-29T23:16:02.415Z",
+        "place": "2km NNW of The Geysers, California",
+        "type": "earthquake",
+        "horizontalError": "0.52",
+        "depthError": "1.21",
+        "magError": "0.2",
+        "magNst": "2",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7710037,
+          38.7996674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T22:49:18.170Z",
+        "depth": "0.38",
+        "mag": 0.45,
+        "magType": "md",
+        "nst": "7",
+        "gap": "191",
+        "dmin": "0.009742",
+        "rms": "0.02",
+        "net": "nc",
+        "id": "nc72757725",
+        "updated": "2017-01-29T23:04:03.397Z",
+        "place": "10km W of Cobb, California",
+        "type": "earthquake",
+        "horizontalError": "0.45",
+        "depthError": "2.05",
+        "magError": "0.14",
+        "magNst": "2",
+        "status": "automatic",
+        "locationSource": "nc",
+        "magSource": "nc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8470001,
+          38.8348351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T22:29:50.098Z",
+        "depth": "6.8",
+        "mag": 1.9,
+        "magType": "ml",
+        "nst": "22",
+        "gap": "59.03",
+        "dmin": "0.118",
+        "rms": "0.1518",
+        "net": "nn",
+        "id": "nn00576139",
+        "updated": "2017-01-30T01:43:15.030Z",
+        "place": "27km WSW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "2.6",
+        "magError": "0.4",
+        "magNst": "12",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.9092,
+          38.4221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T22:20:22.891Z",
+        "depth": "7.7",
+        "mag": 0.9,
+        "magType": "ml",
+        "nst": "8",
+        "gap": "227.45",
+        "dmin": "0.121",
+        "rms": "0.1677",
+        "net": "nn",
+        "id": "nn00576154",
+        "updated": "2017-01-30T01:36:27.027Z",
+        "place": "27km SW of Hawthorne, Nevada",
+        "type": "earthquake",
+        "horizontalError": "",
+        "depthError": "3.8",
+        "magError": "0.49",
+        "magNst": "5",
+        "status": "reviewed",
+        "locationSource": "nn",
+        "magSource": "nn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.888,
+          38.3831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "time": "2017-01-29T22:10:12.270Z",
+        "depth": "-0.51",
+        "mag": 2.02,
+        "magType": "ml",
+        "nst": "7",
+        "gap": "241",
+        "dmin": "0.5909",
+        "rms": "0.18",
+        "net": "uw",
+        "id": "uw61247481",
+        "updated": "2017-01-30T02:41:40.940Z",
+        "place": "5km S of Princeton, Canada",
+        "type": "explosion",
+        "horizontalError": "2.42",
+        "depthError": "31.61",
+        "magError": "0.099",
+        "magNst": "7",
+        "status": "reviewed",
+        "locationSource": "uw",
+        "magSource": "uw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5198333,
+          49.4071667
+        ]
+      }
+    }
+  ]
+}

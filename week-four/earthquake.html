@@ -1,0 +1,69 @@
+<!-- An extended example for this: https://www.mapbox.com/help/show-changes-over-time/ -->
+
+<!-- We want people to be able to see where earthquakes have occurred, and what the relative magnitudes were  -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+     <style> 
+    @import url('https://fonts.googleapis.com/css?family=Lato');
+    body {  margin: 0; padding: 0;  ; }
+    html,
+    #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+
+  .map-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.8);
+    margin-left: 20px;
+    font-family: 'Lato', sans-serif;
+    overflow: auto;
+    border-radius: 3px;
+  }
+
+  #features {
+    top: 0;
+    height: 100px;
+    margin-top: 20px;
+    width: 250px;
+  }
+
+ h2, p {
+    color: black;
+    margin: 10px;
+ }
+
+    </style>
+
+
+<title> Earthquake Map </title>
+ <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+ <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+
+<body>
+    <div id="map" class ="mapboxgl-map"></div>
+    <div class="map-overlay" id="features">
+    <h2> Title or something goes here</h2>
+</div>
+   
+
+    <script>
+    mapboxgl.accessToken = 'ADD YOUR MAPBOX KEY HERE';
+    
+    var map = new mapboxgl.Map({
+        container: 'map', // you need this
+        style: 'mapbox://styles/mapbox/light-v9', // you need this
+        center: [-113.7156246, 36.2473835], // [long, lat] 
+        zoom: 2
+    });
+
+
+ 
+
+    </script>
+</body>
+
+</html>
