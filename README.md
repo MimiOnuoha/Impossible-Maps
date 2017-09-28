@@ -90,7 +90,8 @@ Three parts to your homework:
 Note: on the homework form you will notice that I've included a new question, where you can now check it if you want brief written feedback on homework assignments. 
 
 **Week Four: September 27**  
-*More geodata; design considerations and cues* 
+*More geodata; design considerations and cues*    
+[Screen](https://youtu.be/XHFB93YznOk) [Recording](https://youtu.be/YiQT7zOLB7g)
 
 *Assignment:* 
 
