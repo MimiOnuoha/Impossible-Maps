@@ -95,12 +95,14 @@ Note: on the homework form you will notice that I've included a new question, wh
 *Assignment:* 
 
 - Reading: Trevor Paglen's "Experimental Geography" (in reading folder)
-- Check out: [colorbrewer](http://colorbrewer2.org/) - a tool for map color design
+- Export your Moves data from the [website](https://accounts.moves-app.com/signin)
+	- If you didn't create an account before, you will have to go to the app and create one now (click the small M in the lower right corner > settings > create account)
+	- Once you've done this, then you can (finally) remove the Moves app from your phone! 
 - Use the techniques we learned this week in class to either **re-make your map from last week** or **make a new map**.
 	- Make sure to use the mapboxgl.js library. Use the documentation to load in a dataset that involves turning geojson points into circles. You can create a dataset in geojson.io, use the earthquake or community gardens dataset, or if you're ambitious, find your own (the NYC [open data portal](https://opendata.cityofnewyork.us/) is a good place to start for just NYC data). 
 	- As usual, get your map onling by pushing it to your github.io site. Once you've done that, send the link via the [homework form](https://goo.gl/forms/GqT90flo8oHWEsg22). 
 
-If you have questions: read or Google your error messages, check StackOverflow, check in with Anna, email me.  
+If you have questions: read and Google your error messages, check StackOverflow, check in with Anna, email me.  
 
 **Week Five: October 4**  
 *Continuation of design considerations; changing geodata into useful forms, working with multiple datasets.*
