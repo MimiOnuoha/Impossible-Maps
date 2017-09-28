@@ -101,7 +101,8 @@ Note: on the homework form you will notice that I've included a new question, wh
 	- Once you've done this, then you can (finally) remove the Moves app from your phone! 
 - Use the techniques we learned this week in class to either **re-make your map from last week** or **make a new map**.
 	- Make sure to use the mapboxgl.js library. Use the documentation to load in a dataset that involves turning geojson points into circles. You can create a dataset in geojson.io, use the earthquake or community gardens dataset, or if you're ambitious, find your own (the NYC [open data portal](https://opendata.cityofnewyork.us/) is a good place to start for just NYC data). 
-	- As usual, get your map onling by pushing it to your github.io site. Once you've done that, send the link via the [homework form](https://goo.gl/forms/GqT90flo8oHWEsg22). 
+	- Make sure your map has a title. 
+	- As usual, get your map online by pushing it to your github.io site. Once you've done that, send the link via the [homework form](https://goo.gl/forms/GqT90flo8oHWEsg22). 
 
 If you have questions: read and Google your error messages, check StackOverflow, check in with Anna, email me.  
 
