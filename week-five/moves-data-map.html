@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <style> 
+    /*This is the CSS to make our map fill the whole screen*/
+    body { margin: 0; padding: 0; }
+    html,
+    #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+    
+    .map-overlay {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      background: rgba(255, 255, 255, 0.8);
+      margin-left: 20px;
+      font-family: Arial, sans-serif;
+      overflow: auto;
+      border-radius: 3px;
+    }
+     #features {
+    top: 0;
+    height: 100px;
+    margin-top: 20px;
+    width: 250px;
+  }
+
+    </style>
+
+
+    <title> Moves Map </title>
+ <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+ <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.js"></script> 
+</head>
+
+<body>
+    <div id="map"> </div>
+    <div class="map-overlay" id="features">
+
+    <div class='session'>
+      <h2>Day of the week</h2>
+      <div class='row' id='filters'>
+        <input id='all' type='radio' name='toggle' value='all' checked='checked'>
+        <label for='all'>All</label>
+        <input id='walking' type='radio' name='toggle' value='walking'>
+        <label for='walking'>Walking</label>
+        <input id='transport' type='radio' name='toggle' value='transport'>
+        <label for='transport'>Transport</label>
+      </div>
+    </div>
+    </div>
+
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoibW9udW9oYSIsImEiOiJEN0llUXVZIn0.H0DvYd5sdO9b3dNcnuucvw';
+    
+    var map = new mapboxgl.Map({
+        container: 'map', 
+        style: 'mapbox://styles/mapbox/bright-v9', 
+        center: [-74.0006213, 40.7229971], 
+        zoom: 11,
+        // pitch: 60,
+        // bearing: 60
+    });
+
+    map.addControl(new mapboxgl.NavigationControl());
+    
+    map.on('load', function() {
+        //This is the only source we're going to add. 
+        map.addSource("storyline", {
+            "type": "geojson",
+            "data": './data/storyline.geojson'
+        });
+        // Layer for points
+        map.addLayer({
+            "id": 'places', // this id becomes really important
+            "type": "circle",
+            "source": "storyline",
+            "paint": {
+                "circle-color": "#D420C1",
+                "circle-radius": {
+                    // radius of 8px at zoom level 1, and so on
+                     stops: [[8, 1], [11, 6], [16, 20]] 
+                },
+                "circle-opacity": .5
+            },
+            "filter": ["==", "$type", "Point"],//options: Point, LineString, polygon
+            "layout": {
+              "visibility": 'visible'
+            }
+        })
+
+        map.addLayer({
+            id: 'activities',
+            type: "line",
+            source: "storyline",
+            paint: {
+                "line-color": "#2470FE",
+                "line-width": 1
+            },
+            layout: {
+              "visibility": 'visible'
+            },
+            // filter: ["==", "$type", "LineString"]
+        }) 
+
+        document.getElementById('filters').addEventListener('change', function(e) {
+          var activityType = e.target.value;
+          var filterActivity;
+          if (activityType === 'all') {
+            filterActivity = null;
+          } else if (activityType === 'walking') {
+            filterActivity = ['in', 'group', 'walking'];
+          } else if (activityType === 'transport') {
+            filterActivity = ['in', 'group', 'transport'];
+          } 
+
+          console.log(filterActivity);
+          map.setFilter('places', filterActivity);
+        });
+
+
+    });
+
+
+//popups that say at what time you went to each place
+
+
+ 
+
+    </script>
+</body>
+
+</html>
