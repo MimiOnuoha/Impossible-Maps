@@ -113,9 +113,13 @@ You don't have a mapping homework assignment this week other than to start advan
 
 You do, however, have a very long (but interesting, and useful!) reading: [Mapping's Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/). Come prepared to discuss next week! 
 
-
 **Week Six: October 11**  
- *Introducing newer forms of working with maps: extended mapping libraries, making your own tiles**  
+ *Recaps + working in class*
+
+*Assignment:*
+
+- Work on your midterms! Check the midterm document in the resources folder for more information on presentations next week. 
+- If you have time, you can take a look at the SEPC questions I've uploaded in the resources folder. These are what you'll be discussing in class next week before the midterm. 
 
 **Week Seven: October 18**    
 *Midterm Presentations*
