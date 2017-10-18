@@ -124,6 +124,17 @@ You do, however, have a very long (but interesting, and useful!) reading: [Mappi
 **Week Seven: October 18**    
 *Midterm Presentations*
 
+*Assignment:*
+
+- Make sure to make a documentation post about your midterm. This should be online, and it should link to your map, and should include the information that was in your presentation: how you did it, why, what you set out to do, what you did do, etc. 
+
+- Readings(ish):
+
+  - read [Recognition through reconnaisance? Using drones for counter mapping in Indonesia](http://www.tandfonline.com/doi/full/10.1080/03066150.2016.1264937) (use link or find in readings folder)
+  - Catherine D'Ignazio's [Feminist Data Visualization](https://civic.mit.edu/feminist-data-visualization)
+
+  ​
+
 **Week Eight: October 25**   
 *Map projections; chloropleth maps; Tangram*    
 
