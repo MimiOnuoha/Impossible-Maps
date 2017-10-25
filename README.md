@@ -47,7 +47,7 @@ I can be reached via email at all times, but I am very slow to respond to emails
 
 
 ## Syllabus
-**Week One: September 6**    
+**WEEK ONE: September 6**    
 Introductions to class and to each other, and getting set up for the semester. What is a map? What is the history of mapping? What makes digital mapping different from what came before? What are impossible maps?
 
 *Assignment:*
@@ -58,7 +58,7 @@ Introductions to class and to each other, and getting set up for the semester. W
 - Post a 300-500 word entry about your thoughts on the essay or anything we talked about in class. Does it matter that Apple and Google Maps have different styles? What interests you about maps, space, and the representation of both digitally? You can write anything, but you must post to your new blog and submit the URL using the homework link (see above). All text, no need to have any images.
 
 
-**Week Two: September 13**  
+**WEEK TWO: September 13**  
 *What do maps do? Creating our first webmaps; the anatomy of a wem ap; what the different parts of a webmap do and what they can be used for.*  
 Screen Recording [here](https://www.youtube.com/watch?v=GS6iPvvQcKc&feature=youtu.be).  
 
@@ -74,7 +74,7 @@ Three parts to your homework:
   - When you've uploaded the map, send the link via the [homework form](https://goo.gl/forms/GqT90flo8oHWEsg22). 
 - Finally: download the Moves app on your phone (iPhone [here](https://itunes.apple.com/us/app/moves/id509204969?mt=8), Android [here](https://play.google.com/store/apps/details?id=com.protogeo.moves&hl=en)). This drains your battery like crazy (sorry!) but it'll be worth it.
 
-**Week Three: September 20**      
+**WEEK THREE: September 20**      
 *Building out our webmaps; the differences between leaflet and mapbox; Understanding geodata and adding it to our maps.*   
 
 *Assignment:*  
@@ -89,7 +89,7 @@ Three parts to your homework:
 
 Note: on the homework form you will notice that I've included a new question, where you can now check it if you want brief written feedback on homework assignments. 
 
-**Week Four: September 27**  
+**WEEK FOUR: September 27**  
 *More geodata; design considerations and cues*    
 [Screen](https://youtu.be/XHFB93YznOk) [Recording](https://youtu.be/YiQT7zOLB7g)
 
@@ -106,14 +106,14 @@ Note: on the homework form you will notice that I've included a new question, wh
 
 If you have questions: read and Google your error messages, check StackOverflow, check in with Anna, email me.  
 
-**Week Five: October 4**  
+**WEEK FIVE: October 4**  
 *Continuation of design considerations; changing geodata into useful forms, working with multiple datasets.*
 
 You don't have a mapping homework assignment this week other than to start advancing progress and doing work for the midterm (find the prompt for the midterm in the resources folder).
 
 You do, however, have a very long (but interesting, and useful!) reading: [Mapping's Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/). Come prepared to discuss next week! 
 
-**Week Six: October 11**  
+**WEEK SIX: October 11**  
  *Recaps + working in class*
 
 *Assignment:*
@@ -121,50 +121,44 @@ You do, however, have a very long (but interesting, and useful!) reading: [Mappi
 - Work on your midterms! Check the midterm document in the resources folder for more information on presentations next week. 
 - If you have time, you can take a look at the SEPC questions I've uploaded in the resources folder. These are what you'll be discussing in class next week before the midterm. 
 
-**Week Seven: October 18**    
+**WEEK SEVEN: October 18**    
 *Midterm Presentations*
 
 *Assignment:*
 
 - Make sure to make a documentation post about your midterm. This should be online, and it should link to your map, and should include the information that was in your presentation: how you did it, why, what you set out to do, what you did do, etc. 
-
 - Readings(ish):
-
   - read [Recognition through reconnaisance? Using drones for counter mapping in Indonesia](http://www.tandfonline.com/doi/full/10.1080/03066150.2016.1264937) (use link or find in readings folder)
   - Catherine D'Ignazio's [Feminist Data Visualization](https://civic.mit.edu/feminist-data-visualization)
 
-  ​
-
-**Week Eight: October 25**   
+**WEEK EIGHT: October 25**   
 *Aerial Mapping, part 1* 
 
 *Assignment:*
 
-- One of you needs to type up your plan for the in-class balloon counter-mapping exercise next week and have it ready for class next week. 
+- One of you needs to type up your plan for the in-class balloon counter-mapping exercise next week and submit it using the homework form. I will have it printed out next week for class. 
 - Reading:
   -  read the chapter entitled "Representation and the Necessity of Interpretation" from Laura Kurgan's book *Close Up At A Distance* (this is in the readings folder as "kurgan2.pdf")
   - skim these posts on balloon mapping so that you're more familiar with the equipment and what you'll be doing next week:
     - [post 1](https://publiclab.org/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping) 
     - [post 2](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 
-
-
-**Week Nine: November 1**   
+**WEEK NINE: November 1**   
 *Aerial mapping, part 2*   
 
-**Week Ten: November 8**  
+**WEEK TEN: November 8**  
 *Plan Day - no class*
 
-**Week Eleven: November 15**  
+**WEEK ELEVEN: November 15**  
 *Carto, Google Maps Static Image API | Satellite Imagery*   
 
-**Week Twelve: November 29**  
+**WEEK TWELVE: November 29**  
 *Digital mapping off the screen; experiments in geography apart from maps*    
 
-**Week Thirteen: December 6**  
+**WEEK THIRTEEN: December 6**  
 *Review/questions/work in class on final projects*
 
-**Week Fourteen: December 13**   
+**WEEK FOURTEEN: December 13**   
 *Final Project Presentations*
 
 
