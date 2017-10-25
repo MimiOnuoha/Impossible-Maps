@@ -7,3 +7,6 @@
 - [csv2geojson](http://mapbox.github.io/csv2geojson/) - a command line module that turns CSV into geojson
 -	[Mapshaper](http://mapshaper.org/) can also be used to convert from csv to geojson, but I find csv2geojson to be better.
 - [NYC Open Data Portal](https://data.cityofnewyork.us/) 
+- [Google fonts](https://fonts.google.com/)   
+- Which services use [[lon,lat] vs [lat,lon]](https://macwright.org/lonlat/)
+- 

@@ -136,16 +136,27 @@ You do, however, have a very long (but interesting, and useful!) reading: [Mappi
   ​
 
 **Week Eight: October 25**   
-*Map projections; chloropleth maps; Tangram*    
+*Aerial Mapping, part 1* 
+
+*Assignment:*
+
+- One of you needs to type up your plan for the in-class balloon counter-mapping exercise next week and have it ready for class next week. 
+- Reading:
+  -  read the chapter entitled "Representation and the Necessity of Interpretation" from Laura Kurgan's book *Close Up At A Distance* (this is in the readings folder as "kurgan2.pdf")
+  - skim these posts on balloon mapping so that you're more familiar with the equipment and what you'll be doing next week:
+    - [post 1](https://publiclab.org/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping) 
+    - [post 2](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
+
+
 
 **Week Nine: November 1**   
-*CartoDB, Mapbox; integrating multiple types and huge amounts of data*   
+*Aerial mapping, part 2*   
 
 **Week Ten: November 8**  
 *Plan Day - no class*
 
 **Week Eleven: November 15**  
-*Google Maps Static Image API | Aerial and Satellite Imagery*   
+*Carto, Google Maps Static Image API | Satellite Imagery*   
 
 **Week Twelve: November 29**  
 *Digital mapping off the screen; experiments in geography apart from maps*    
@@ -156,5 +167,4 @@ You do, however, have a very long (but interesting, and useful!) reading: [Mappi
 **Week Fourteen: December 13**   
 *Final Project Presentations*
 
-# Special Thanks 
-To Allison Parrish, whose homework form template I've used.
+
