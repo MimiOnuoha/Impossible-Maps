@@ -24,11 +24,11 @@
     <div id="map"> </div>
 
     <script>
-    mapboxgl.accessToken = 'YOUR API KEY GOES HERE';
+    mapboxgl.accessToken = 'YOUR API KEY HERE';
     
     var map = new mapboxgl.Map({
         container: 'map', // you need this
-        style: 'mapbox://styles/mapbox/light-v9', // you also need this
+        style: 'mapbox://styles/mapbox/dark-v9', // you also need this
         center: [-74.0006213, 40.7229971], // [long, lat] Different than leaflet, different than google maps, same as geojson! 
         zoom: 4,
     });
@@ -38,21 +38,23 @@
 
     map.on('load', function() {
         
-        map.addSource("states", { type: "geojson", data: './states.json'
+        map.addSource("states", { 
+            type: "geojson", 
+            data: './states.json'
           });
         map.addLayer({
             id: 'states',
             type: "fill",
             source: "states",
             paint: {
-                "fill-color": "#05A2C7"
+                "fill-color": "pink"
             }
         })
 
         });
 
 
-
+console.log("testing");
 
     // now we have a new way of adding geojson data
 
