@@ -143,6 +143,8 @@ You do, however, have a very long (but interesting, and useful!) reading: [Mappi
     - [post 1](https://publiclab.org/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping) 
     - [post 2](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 
+Note: [here's](https://www.dropbox.com/s/kxerzcjy858wlck/class-drone-vid.MP4?dl=0) our drone vid from last week!
+
 **WEEK NINE: November 1**   
 *Aerial mapping, part 2*   
 
