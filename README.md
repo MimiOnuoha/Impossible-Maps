@@ -139,7 +139,7 @@ You do, however, have a very long (but interesting, and useful!) reading: [Mappi
 - One of you needs to type up your plan for the in-class balloon counter-mapping exercise next week and submit it using the homework form. I will have it printed out next week for class. 
 - Reading:
   -  read the chapter entitled "Representation and the Necessity of Interpretation" from Laura Kurgan's book *Close Up At A Distance* (this is in the readings folder as "kurgan2.pdf")
-  - skim these posts on balloon mapping so that you're more familiar with the equipment and what you'll be doing next week:
+  -  skim these posts on balloon mapping so that you're more familiar with the equipment and what you'll be doing next week:
     - [post 1](https://publiclab.org/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping) 
     - [post 2](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 
@@ -148,11 +148,15 @@ Note: [here's](https://www.dropbox.com/s/kxerzcjy858wlck/class-drone-vid.MP4?dl=
 **WEEK NINE: November 1**   
 *Aerial mapping, part 2*   
 
+Balloon Mapping! No homework this week. 
+
 **WEEK TEN: November 8**  
 *Plan Day - no class*
 
 **WEEK ELEVEN: November 15**  
 *Carto, Google Maps Static Image API | Satellite Imagery*   
+
+[start talking about final projects]
 
 **WEEK TWELVE: November 29**  
 *Digital mapping off the screen; experiments in geography apart from maps*    
