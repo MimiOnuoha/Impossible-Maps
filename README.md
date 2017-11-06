@@ -150,8 +150,16 @@ Note: [here's](https://www.dropbox.com/s/kxerzcjy858wlck/class-drone-vid.MP4?dl=
 
 Balloon Mapping! No homework this week. 
 
+Here are [pictures](https://www.dropbox.com/sh/gi6by4qq46d65xs/AACrZh0Fujk99TIq4k1UznfTa?dl=0) from the class. 
+
 **WEEK TEN: November 8**  
 *Plan Day - no class*
+
+*Assignment:*
+
+- Read the chapter entitled "From Military Surveillance to the Public Sphere" from  *Close Up At A Distance* (this is in the readings folder as "kurgan1.pdf")
+- Read [A Narrative Atlas of Boylan Heights](https://makingmaps.net/2008/01/10/denis-wood-a-narrative-atlas-of-boylan-heights/) 
+  - take note of the different types of maps they make, and the different ways of spatially understanding one place.  
 
 **WEEK ELEVEN: November 15**  
 *Carto, Google Maps Static Image API | Satellite Imagery*   
