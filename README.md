@@ -157,6 +157,7 @@ Here are [pictures](https://www.dropbox.com/sh/gi6by4qq46d65xs/AACrZh0Fujk99TIq4
 
 *Assignment:*
 
+- Check out [this map of Occupy Oakland](https://publiclab.org/map/occupy-oakland-10am/2011-11-02) (aerial mapping ftw!)
 - Read the chapter entitled "From Military Surveillance to the Public Sphere" from  *Close Up At A Distance* (this is in the readings folder as "kurgan1.pdf")
 - Read [A Narrative Atlas of Boylan Heights](https://makingmaps.net/2008/01/10/denis-wood-a-narrative-atlas-of-boylan-heights/) 
   - take note of the different types of maps they make, and the different ways of spatially understanding one place.  
