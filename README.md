@@ -122,7 +122,7 @@ You do, however, have a very long (but interesting, and useful!) reading: [Mappi
 - If you have time, you can take a look at the SEPC questions I've uploaded in the resources folder. These are what you'll be discussing in class next week before the midterm. 
 
 **WEEK SEVEN: October 18**    
-*Midterm Presentations*
+*Midterm Presentations + drone mapping*
 
 *Assignment:*
 
