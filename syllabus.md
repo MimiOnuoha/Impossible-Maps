@@ -44,7 +44,7 @@ I can be reached via email at all times, but I am very slow to respond to emails
 
 
 ## Syllabus
-**Week One: September 6**    
+**Week One: March 20**    
 Introductions to class and to each other, and getting set up for the semester. What is a map? What is the history of mapping? What makes digital mapping different from what came before? What are impossible maps?
 
 *Assignment:*
@@ -54,24 +54,24 @@ Introductions to class and to each other, and getting set up for the semester. W
 - Post a 300-500 word entry about your thoughts on the essay or anything we talked about in class. Does it matter that Apple and Google Maps have different styles? What interests you about maps, space, and the representation of both digitally? You can write anything, but you must post to your new blog and submit the URL using the homework link (see above). All text, no need to have any images.
 
 
-**Week Two: September 13**  
+**Week Two: March 27** 
 *What do maps do? Creating our first webmaps; the anatomy of a webmap; what the different parts of a webmap do and what they can be used for.*
-   
-**Week Three: September 20**      
+
+**Week Three: April 3**      
 *Building out our webmaps; the differences between leaflet and mapbox; Understanding geodata and adding it to our maps.*   
 
-**Week Four: September 27**  
+**Week Four: April 10**  
 *Other ways of adding geodata to our maps; design considerations and cues*  
 
-**Week Five: October 4**  
+**Week Five: April 17**  
 *Continuation of design considerations; changing geodata into useful forms, working with multiple datasets.*
 
 Submit preliminary midterm idea. 
 
-**Week Six: October 11**  
+**Week Six: April 24**  
  *Introducing newer forms of working with maps: extended mapping libraries, making your own tiles**  
 
-**Week Seven: October 18**    
+**Week Seven: May 1**    
 *Midterm Presentations*
 
 **Week Eight: October 25**   

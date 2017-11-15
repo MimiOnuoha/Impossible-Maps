@@ -146,7 +146,7 @@ You do, however, have a very long (but interesting, and useful!) reading: [Mappi
 Note: [here's](https://www.dropbox.com/s/kxerzcjy858wlck/class-drone-vid.MP4?dl=0) our drone vid from last week!
 
 **WEEK NINE: November 1**   
-*Aerial mapping, part 2*   
+*The experience of mapping*   
 
 Balloon Mapping! No homework this week. 
 
@@ -163,15 +163,17 @@ Here are [pictures](https://www.dropbox.com/sh/gi6by4qq46d65xs/AACrZh0Fujk99TIq4
   - take note of the different types of maps they make, and the different ways of spatially understanding one place.  
 
 **WEEK ELEVEN: November 15**  
-*Carto, Google Maps Static Image API | Satellite Imagery*   
+*Aerial imagery and the experience of mapping, part 2*
 
 [start talking about final projects]
 
-**WEEK TWELVE: November 29**  
-*Digital mapping off the screen; experiments in geography apart from maps*    
+**WEEK TWELVE: November 29** 
+
+ *Carto, Google Maps Static Image API | Satellite Imagery*    
 
 **WEEK THIRTEEN: December 6**  
-*Review/questions/work in class on final projects*
+
+*Digital mapping off the screen; experiments in geography apart from maps*   || *Time to work in class on final projects*
 
 **WEEK FOURTEEN: December 13**   
 *Final Project Presentations*
