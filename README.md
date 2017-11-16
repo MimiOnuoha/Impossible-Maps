@@ -165,9 +165,17 @@ Here are [pictures](https://www.dropbox.com/sh/gi6by4qq46d65xs/AACrZh0Fujk99TIq4
 **WEEK ELEVEN: November 15**  
 *Aerial imagery and the experience of mapping, part 2*
 
-[start talking about final projects]
-
 Map images can be found [here](https://www.dropbox.com/sh/rju8axnigf0injo/AABqFN8yU90U0imAVHsmozoPa?dl=0). 
+
+*Assignment:*
+
+- Read [here](http://www.amateurhuman.org/last-clouds) about artist Karolina Sobecka's project *Last Clouds*
+- Read [this article](https://www.wired.com/2013/05/a-cloudless-atlas/) ("A Cloudless Atlas") from Wired. 
+- Start thinking about your final project. There's a document in the resources folder with more guidelines on this. Be prepared to talk about your idea in class the next time we meet. 
+- Use the [images we gathered from our balloon mapping](https://www.dropbox.com/sh/rju8axnigf0injo/AABqFN8yU90U0imAVHsmozoPa?dl=0) in class this week to create an aerial map! To do this, you will need to use [MapKnitter](https://mapknitter.org/) . Watch the tutorial video on the main page to use the software (it is relatively straightforward.)
+  - After you've made your map, make sure to export it as an image and post it on your website. Submit the post/map using the homework form! 
+
+REMINDER: you have two weeks to do these assignments, since we won't be meeting next week. Enjoy the break! 
 
 **WEEK TWELVE: November 29** 
 
