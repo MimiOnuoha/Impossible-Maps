@@ -180,18 +180,16 @@ REMINDER: you have two weeks to do these assignments, since we won't be meeting 
 **WEEK TWELVE: November 29** 
 
  *Google Maps Static Image API | Satellite Imagery*    
-
 *Assignment:*
 
 - Work on your final project! 
-- Read [The Map of the Art](https://themorningnews.org/gallery/the-map-of-the-art) 
-- Check out some of the projects on [where-you-are.com](http://where-you-are.com/). Take note of which ones stand out to you!
+- Read The Map of the Art 
+- Check out some of the projects on [where-you-are.com](where-you-are.com). Take note of which ones stand out to you!
 
 **WEEK THIRTEEN: December 6**  
 
-*D3 + mapping *   || *Time to work in class on final projects*
+*d3; experiments in geography apart from maps*   || *Time to work in class on final projects*
 
 **WEEK FOURTEEN: December 13**   
 *Final Project Presentations*
-
 
