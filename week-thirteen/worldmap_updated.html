@@ -1,0 +1,78 @@
+<!-- See here: http://bl.ocks.org/micahstubbs/01529b106c93f9b649c4006de5c79b80 -->
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+  <script src="http://d3js.org/queue.v1.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+  <style>
+    body { margin:0;position:fixed;top:0;right:0;bottom:0;left:0; }
+    svg { width:100%; height: 100% }
+
+  </style>
+</head>
+
+<body>
+  <script>
+
+    var color = d3.scale.threshold()
+    .domain([10000,100000,500000,1000000,5000000,10000000,50000000,100000000,500000000,1500000000])
+    .range(["rgb(247,251,255)", "rgb(222,235,247)", "rgb(198,219,239)", "rgb(158,202,225)", "rgb(107,174,214)", "rgb(66,146,198)","rgb(33,113,181)","rgb(8,81,156)","rgb(8,48,107)","rgb(3,19,43)"]);
+    //given a value in the input domain, this function will return the corresponding value in the output range. 
+
+    var width = 960;
+    var height = 500;
+    
+    var margin = {top: 0, right: 0, bottom: 0, left: 0},
+            width = 960 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;  
+
+    var svg = d3.select("body") // do this in every map
+                .append("svg")  // same
+                .attr("width", width) 
+                .attr("height", height)
+                .append('g') // svg group element. Any transformation applied to the g will apply to all the elements inside
+                .attr('class', 'map'); //adding a css class for the map
+
+    var projection = d3.geo.mercator() 
+      .scale(130) 
+      .translate([width / 2, height / 2]) 
+
+    var path = d3.geo.path()
+      .projection(projection);  
+    
+    queue() // We use queue when we want to load multiple datasets
+      .defer(d3.json, "http://enjalot.github.io/wwsd/data/world/world-110m.geojson")
+      .defer(d3.tsv, "world_population.tsv")
+      .await(ready);
+
+  function ready(error, data, population) {
+  var populationById = {};
+  // note that the second parameter (data) refers to the first dataset we loaded (d3.json). the third one refers to the second dataset we loaded (world_population.tsv) 
+
+
+  population.forEach(function(d) { populationById[d.id] = +d.population; }); //the "+" just turns the population from a string into an integer. 
+  data.features.forEach(function(d) { d.population = populationById[d.id] });
+
+  svg.append("g") 
+      .attr("class", "countries")
+    .selectAll("path")
+      .data(data.features)
+    .enter().append("path")
+      .attr("d", path)
+      .style("fill", function(d) { return color(populationById[d.id]); })
+      .style('stroke', 'white')
+      .style('stroke-width', 1)
+      .style("opacity",0.8)
+
+    
+  svg.append("path")
+      .datum(topojson.mesh(data.features, function(a, b) { return a.id !== b.id; }))
+       // .datum(topojson.mesh(data.features, function(a, b) { return a !== b; }))
+      .attr("class", "names")
+      .attr("d", path);
+}    
+
+//the mesh bit just makes it easier to render the strokes for this efficiently, don't worry too much about it. 
+  </script>
+</body>
