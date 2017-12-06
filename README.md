@@ -184,7 +184,7 @@ REMINDER: you have two weeks to do these assignments, since we won't be meeting 
 
 - Work on your final project! 
 - Read The Map of the Art 
-- Check out some of the projects on [where-you-are.com](where-you-are.com). Take note of which ones stand out to you!
+- Check out some of the projects on [where-you-are.com](http://www.where-you-are.com). Take note of which ones stand out to you!
 
 **WEEK THIRTEEN: December 6**  
 
