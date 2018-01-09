@@ -1,2 +1,0 @@
-- We've been adding legends and titles only in one specific way, but keep in mid that you could do things differently. For example, you could have a [sliding menu](https://www.adchsm.com/slidebars/downloads/).
-- Loads and loads of old maps visible [here](https://www.davidrumsey.com/about). 
