@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8 />
+    <title>Marker example - geojson, tooltips outside</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.css' rel='stylesheet' />
+    <link href='assets/styles.css' rel='stylesheet' />
+</head>
+
+<body>
+    <div id='map'></div>
+    <div id='info' class='info'></div>
+
+    <script>
+    L.mapbox.accessToken = 'MAPBOX-ACCESS-TOKEN';
+    var info = document.getElementById('info');
+    var map = L.mapbox.map('map', 'mapbox.streets')
+        .setView([37.9, -77], 6);
+
+    var layer = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>'
+    }).addTo(map);
+
+
+    var myLayer = L.mapbox.featureLayer().addTo(map);
+
+
+    var geoJson = { GEOJSON-GOES-HERE }
+
+
+    myLayer.setGeoJSON(geoJson);
+
+    // Listen for individual marker clicks.
+    myLayer.on('click', function(e) {
+        // Force the popup closed.
+        e.layer.closePopup();
+
+        var feature = e.layer.feature;
+        var content = '<div><strong>' + feature.properties.title + '</strong>' +
+            '<p>' + feature.properties.description + '</p></div>';
+
+        info.innerHTML = content;
+    });
+
+    // Clear the tooltip when map is clicked.
+    map.on('move', empty);
+
+    // Trigger empty contents when the script
+    // has loaded on the page.
+    empty();
+
+    function empty() {
+        info.innerHTML = '<div><strong>Click a marker</strong></div>';
+    }
+    </script>
+</body>
+
+</html>
