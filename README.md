@@ -47,32 +47,14 @@ Introductions to class and to each other, and getting set up for the semester. W
 **WEEK TWO: September 13**  
 What do maps do? Creating our first webmaps; the anatomy of a wem ap; what the different parts of a webmap do and what they can be used for.  
 
-*READING*:  
-
-- Borges, *On Exactitude in Science* 
-- Baudrillard, *The Precession of Simulacra* 
-
 **WEEK THREE: September 20**      
 Building out our webmaps; the differences between leaflet and mapbox; Understanding geodata and adding it to our maps.
-
-*READING*:  
-
-- Read [this](http://www.cabinetmagazine.org/issues/47/bridle.php) piece by James Bridle on trap streets
-- Learn more about geojson by reading [this](https://macwright.org/2015/03/23/geojson-second-bite.html) up until the section that begins with "Winding"
 
 **WEEK FOUR: September 27**  
 More geodata; design considerations and cues    
 
-*READING*: 
-
-- Trevor Paglen's "Experimental Geography" (in reading folder)
-
 **WEEK FIVE: October 4**  
 Continuation of design considerations; changing geodata into useful forms, working with multiple datasets.
-
-*READING*: 
-
-- Shannon Mattern,  [Mapping's Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/). 
 
 **WEEK SIX: October 11**  
  Recaps + working in class
@@ -80,19 +62,8 @@ Continuation of design considerations; changing geodata into useful forms, worki
 **WEEK SEVEN: October 18**    
 Midterm Presentations + drone mapping
 
-*READING*:
--  [Recognition through reconnaisance? Using drones for counter mapping in Indonesia](http://www.tandfonline.com/doi/full/10.1080/03066150.2016.1264937) (use link or find in readings folder)
--  Catherine D'Ignazio's [Feminist Data Visualization](https://civic.mit.edu/feminist-data-visualization)
-
 **WEEK EIGHT: October 25**   
 Aerial Mapping, part 1
-
-*READING*:
-
--  read "Representation and the Necessity of Interpretation" from Laura Kurgan's *Close Up At A Distance* (this is in the readings folder as "kurgan2.pdf")
--  skim these posts on balloon mapping so that you're more familiar with the equipment and what you'll be doing next week:
-  - [post 1](https://publiclab.org/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping) 
-  - [post 2](http://geojournalism.org/2013/08/balloon-mapping-how-to-make-your-own-low-flying-satellite/)
 
 **WEEK NINE: November 1**   
 The experience of mapping  
@@ -100,20 +71,8 @@ The experience of mapping
 **WEEK TEN: November 8**  
 Plan Day - no class
 
-*READING*:
-
-- "From Military Surveillance to the Public Sphere" from  *Close Up At A Distance* (this is in the readings folder as "kurgan1.pdf")
-
-
--  [A Narrative Atlas of Boylan Heights](https://makingmaps.net/2008/01/10/denis-wood-a-narrative-atlas-of-boylan-heights/) 
-
 **WEEK ELEVEN: November 15**  
 Aerial imagery and the experience of mapping, part 2
-
-*READING:*
-
-- Read [here](http://www.amateurhuman.org/last-clouds) about artist Karolina Sobecka's project *Last Clouds*
-- Read [this article](https://www.wired.com/2013/05/a-cloudless-atlas/) ("A Cloudless Atlas") from Wired. 
 
 **WEEK TWELVE: November 29** 
 
@@ -124,6 +83,7 @@ Aerial imagery and the experience of mapping, part 2
 d3; experiments in geography apart from maps   || Time to work in class on final projects
 
 **WEEK FOURTEEN: December 13**   
+
 Final Project Presentations
 
 
