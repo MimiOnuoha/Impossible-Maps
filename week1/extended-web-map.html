@@ -1,0 +1,52 @@
+<!--  A basic web map. -->
+<!-- Leaflet Guide: http://leafletjs.com/examples/quick-start/ -->
+<!-- Carto Base maps: http://bl.ocks.org/Xatpy/raw/854297419bd7eb3421d0/ -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <style>
+    /*This is the CSS to make our map fill the whole screen */
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    html,
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    </style>
+
+
+    <title> Base Layer </title>
+    <!-- Leaflet stylesheet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="" />
+    <!-- Leaflet javascript  -->
+    <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin=""></script>
+</head>
+
+<body>
+    <div id="map"> </div>
+    <!-- This is saying where our map is in the html -->
+    <script>
+
+    var map = L.map('map').setView([40.7294245,-73.9958957], 4);
+    
+    var OpenStreetMap_HOT = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+        maxZoom: 5,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>',
+    }).addTo(map);
+
+    var marker = L.marker([40.7294245,-73.9958957,]).addTo(map);
+
+    marker.bindPopup("<strong>This is where NYU is!</strong>.").openPopup();
+
+    </script>
+</body>
+
+</html>
