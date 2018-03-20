@@ -1,6 +1,6 @@
 # Impossible Maps
 
-**Instructor:** Mimi Onuoha  
+**Instructor:** Mimi Onuoha  (cgo221@nyu.edu)
 **Term:** Fall 2017, NYU ITP  
 **Time:** Tuesdays, 12:10pm - 2:40pm   
 **Office Hours:** [Link for scheduling](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)
