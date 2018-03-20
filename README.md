@@ -41,31 +41,31 @@ Each class will begin with exposure to an interesting map or application of mapp
 I can be reached via email at all times, but am slow to respond to emails sent over the weekend. If you are in need of a prompt response, please email during the week. I reserve 24 hours to respond, but typically will reply much sooner. 
 
 ## Syllabus
-**WEEK ONE**: Introductions     
+**WEEK ONE** (March 20): Introductions      
 *Introductions to class and to each other/semester set-up:  What is a map, what is the history of mapping, what the different parts of a web map do and what they can be used for, what are impossible maps?* 
 
 
-**WEEK TWO**:  The Perils of Web Mapping 
+**WEEK TWO**  (March 27):  The Perils of Web Mapping
 *Slippy web maps, the differences between Leaflet and Mapbox and vector vs raster tiles.  What is geodata, how do we create it and add it to our maps?* 
 
 
-**WEEK THREE**: The Battle for Data 
+**WEEK THREE** (April 3): The Battle for Data 
 *Diving deeper into geodata, working with external datasets, wrangling geodata to meet our needs.*
 
 
-**WEEK FOUR**: A Sense of Place (+ design considerations)
+**WEEK FOUR** (April 10): A Sense of Place (+ design considerations)
 *Changing geodata into useful forms, working with multiple datasets, design considerations for our maps.* 
 
 
-**WEEK FIVE**: Counter-Mapping as Practice 
+**WEEK FIVE** (April 17): Counter-Mapping as Practice 
 *Exploring aerial imagery and the material experience of mapping.* 
 
 
-**WEEK SIX**: The View from Above 
+**WEEK SIX** (April 24): The View from Above 
 *Guest Speakers | Working with Satellite imagery, the Google Maps Static Image API* 
 
 
-**WEEK SEVEN**
-Final Presentations
+**WEEK SEVEN ** (May 1): Final Presentations
+
 
 
