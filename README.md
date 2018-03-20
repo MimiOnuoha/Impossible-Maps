@@ -44,6 +44,21 @@ I can be reached via email at all times, but am slow to respond to emails sent o
 **WEEK ONE** (March 20): Introductions      
 *Introductions to class and to each other/semester set-up:  What is a map, what is the history of mapping, what the different parts of a web map do and what they can be used for, what are impossible maps?* 
 
+Reading:
+
+- "Experimental Geography: From Cultural Production to the Production of Space", Trevor Paglen
+
+Assignment:
+
+- Go through [this](http://maptime.io/anatomy-of-a-web-map/#0) (may take a minute to load correctly)
+- Create a map like the map we made in class. Consult the [leaflet documentation](http://leafletjs.com/) to figure out how to change the view of your map (based on lat and long values) and how to add a marker and popup. Get your map online in some fashion and submit it using the homework form (above).
+- Along with your map, post a short 300-500 word entry about your thoughts on the readings, the process of making your first web map(s), or anything we talked about in class. What is interesting (or uninteresting) to you about maps, space, and digital representations of both? 
+- If you're not used to the terminal or the command line, I highly suggest you read Allison Parrish's text on [UNIX text processing tools](http://rwet.decontextualize.com/book/unix/) up until the section that begins with "Structure of UNIX commands".
+
+BONUS: (not required, we won't talk about it in class, but just for those of you who can't get enough): skim the intro to [this comparison](https://www.justinobeirne.com/cartography-comparison) between Apple and Google Maps. 
+
+
+
 
 **WEEK TWO**  (March 27):  The Perils of Web Mapping
 *Slippy web maps, the differences between Leaflet and Mapbox and vector vs raster tiles.  What is geodata, how do we create it and add it to our maps?* 
@@ -65,7 +80,7 @@ I can be reached via email at all times, but am slow to respond to emails sent o
 *Guest Speakers | Working with Satellite imagery, the Google Maps Static Image API* 
 
 
-**WEEK SEVEN **(May 1): Final Presentations
+**WEEK SEVEN**(May 1): Final Presentations
 
 
 

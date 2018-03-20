@@ -5,7 +5,19 @@
 
 <head>
     <style>
-        /*Styles for map go in here*/
+    /* Gives us a map that takes up the full webpage */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        html, 
+        #map {
+            position: absolute;
+            top: 0;
+            bottom:0;
+            width: 100%;
+        }
 
     </style>
     <title> Base Layer </title>
@@ -18,7 +30,7 @@
 <body>
     <div id="map"> </div>
     <script>
-    var map = L.map('map').setView([42.919, -73.2400], 4);
+    var map = L.map('map').setView([42.919, -73.2400], 1);
     
     L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_nolabels/{z}/{x}/{y}.png', {
         attribution: 'OpenStreetMap',
