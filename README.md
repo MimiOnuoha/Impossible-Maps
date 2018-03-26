@@ -3,7 +3,7 @@
 **Instructor:** Mimi Onuoha  (cgo221@nyu.edu)  
 **Term:** Fall 2017, NYU ITP  
 **Time:** Tuesdays, 12:10pm - 2:40pm   
-**Office Hours:** [Link for scheduling](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)
+**Office Hours:** Wednesdays 10am- 12pm ([Link for scheduling](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or email
 
 Submit homework [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfocVAYIRgXef4dXbr-fu3qYdosTLTtE6ZwEQDbkuiJljYWCw/viewform?usp=sf_link). 
 
