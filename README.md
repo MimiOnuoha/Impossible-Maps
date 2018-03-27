@@ -80,7 +80,7 @@ BONUS: (not required, we won't talk about it in class, but just for those of you
 *Guest Speakers | Working with Satellite imagery, the Google Maps Static Image API* 
 
 
-**WEEK SEVEN **(May 1): Final Presentations     
+**WEEK SEVEN**(May 1): Final Presentations     
 
 
 
