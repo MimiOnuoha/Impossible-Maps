@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "details": "I lived here when I was five years old."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.11328125,
+          39.436192999314095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "details": "I lived here during college.",
+        "name": "The Coop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.625,
+          30.600093873550072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "details": "My home away from home.",
+        "name": "House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.41015624999999,
+          37.64903402157866
+        ]
+      }
+    }
+  ]
+}

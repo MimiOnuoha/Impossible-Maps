@@ -1,0 +1,89 @@
+<!-- Documentation: https://www.mapbox.com/mapbox-gl-js/style-spec/#sources-geojson -->
+<!-- Mapbox styles: https://github.com/mapbox/mapbox-gl-styles -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+     <style> 
+    /*This is the CSS to make our map fill the whole screen*/
+    body { margin: 0; padding: 0; }
+    html,
+    #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+
+    </style>
+
+
+    <title> Map of places I've lived</title>
+ <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+ <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+
+<body>
+    <div id="map"> </div>
+
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoibW9udW9oYSIsImEiOiJEN0llUXVZIn0.H0DvYd5sdO9b3dNcnuucvw';
+    
+    var map = new mapboxgl.Map({
+        container: 'map', // you need this
+        style: 'mapbox://styles/mapbox/light-v9', // you also need this 
+        center: [-74.0006213, 40.7229971], // [long, lat] Different than leaflet, different than google maps, same as geojson! 
+        zoom: 2,
+    });
+
+
+    // Source is where the data is coming from, layer is what you're going to do with it.
+
+    map.on('load', function(){
+        map.addSource("homes", {
+            type: "geojson",
+            data: '../data/homes.json'
+        });
+        map.addLayer({
+            'id': 'homes', //id here should match the source
+            'type': 'circle',
+            'source': 'homes',
+            'paint': {
+                'circle-color': 'blue',
+                'circle-opacity': .5
+
+            }       
+        })
+    });
+
+    //  add popup
+      var popup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: false
+    });
+
+ 
+      map.on('mouseenter', 'homes', function(e) {
+        // Change the cursor style as a UI indicator.
+        map.getCanvas().style.cursor = 'pointer';
+
+        var coordinates = e.features[0].geometry.coordinates.slice();
+        var details = e.features[0].properties.details;
+        console.log(details)
+
+       
+        // Populate the popup and set its coordinates
+        // based on the feature found.
+        popup.setLngLat(coordinates)
+            .setHTML(details)
+            .addTo(map);
+    });
+
+    map.on('mouseleave', 'places', function() {
+        map.getCanvas().style.cursor = '';
+        popup.remove();
+    })  
+
+
+    </script>
+</body>
+
+</html>
