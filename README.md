@@ -59,9 +59,21 @@ BONUS: (not required, we won't talk about it in class, but just for those of you
 
 
 
-
 **WEEK TWO**  (March 27):  The Perils of Web Mapping    
 *Slippy web maps, the differences between Leaflet and Mapbox and vector vs raster tiles.  What is geodata, how do we create it and add it to our maps?* 
+
+Readings:
+
+- ["Trap Streets"](http://www.cabinetmagazine.org/issues/47/bridle.php), James Bridle 
+- "[Sorry, We Have No Imagery Here](https://www.atlasobscura.com/articles/investigating-censored-spots-on-google-earth)", Meg Van Huygen
+
+Assignment:
+
+- Create a map using mapboxgl.js. You should include data in the form of points, circles, or markers on top of the basemap (and are welcome to include more than that). You have options for what to map: either extend the mag that we began to create in class with earthquake data, remake your map from last week, or create your own dataset using [geojson.io](http://geojson.io/) and add that to the map. 
+
+- Submit your homework using the homework form (see above). 
+
+  NOTE: check the "useful things" document and the examples if you need any help on the things we spoke about. 
 
 
 **WEEK THREE** (April 3): The Battle for Data    
