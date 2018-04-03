@@ -79,6 +79,22 @@ Assignment:
 **WEEK THREE** (April 3): The Battle for Data    
 *Diving deeper into geodata, working with external datasets, wrangling geodata to meet our needs.*
 
+Readings:
+
+- [Mapping's Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) by Shannon Mattern 
+
+Assignment:
+
+- Take the map that you created last week and extend it by adding another data source. Think about the story of the map—what could be added that would contribute to what you did? For it to make sense, do you now have to remove something? Consider how the data are all working together to tell a greater story. 
+
+- Find a way to make sure that your map is intelligible to someone coming to it for the first time (this might mean incorporating a title, legend, landing page, etc.)
+
+- Get your map online in some way, shape, or form, so that we can see it with a link (consider using [github pages](https://pages.github.com/)).
+
+- Submit your homework using the homework form (see above). 
+
+  ​
+
 
 **WEEK FOUR** (April 10): A Sense of Place (+ design considerations)   
 *Changing geodata into useful forms, working with multiple datasets, design considerations for our maps.* 
