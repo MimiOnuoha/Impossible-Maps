@@ -1,7 +1,7 @@
 # Impossible Maps
 
 **Instructor:** Mimi Onuoha  (cgo221@nyu.edu)  
-**Term:** Fall 2017, NYU ITP  
+**Term:** Spring 2018, NYU ITP  
 **Time:** Tuesdays, 12:10pm - 2:40pm   
 **Office Hours:** Wednesdays 10am- 12pm ([Link for scheduling](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or email
 
@@ -86,14 +86,10 @@ Readings:
 Assignment:
 
 - Take the map that you created last week and extend it by adding another data source. Think about the story of the map—what could be added that would contribute to what you did? For it to make sense, do you now have to remove something? Consider how the data are all working together to tell a greater story. 
-
+  - [Optionally, you can take one of the exercises we did in class and expand on it]
 - Find a way to make sure that your map is intelligible to someone coming to it for the first time (this might mean incorporating a title, legend, landing page, etc.)
-
 - Get your map online in some way, shape, or form, so that we can see it with a link (consider using [github pages](https://pages.github.com/)).
-
 - Submit your homework using the homework form (see above). 
-
-  ​
 
 
 **WEEK FOUR** (April 10): A Sense of Place (+ design considerations)   
