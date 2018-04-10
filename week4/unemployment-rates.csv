@@ -1,0 +1,52 @@
+name,unemployment,rank
+Hawaii,2.1,1
+New Hampshire,2.6,2
+North Dakota,2.6,2
+Nebraska,2.8,4
+Vermont,2.8,4
+Iowa,2.9,6
+Maine,2.9,6
+Wisconsin,2.9,6
+Colorado,3,9
+Idaho,3,9
+Utah,3.1,11
+Indiana,3.2,12
+Minnesota,3.2,12
+Kansas,3.4,14
+South Dakota,3.4,14
+Tennessee,3.4,14
+Massachusetts,3.5,17
+Virginia,3.5,17
+Alabama,3.7,19
+Missouri,3.7,19
+Arkansas,3.8,21
+Florida,3.9,22
+Texas,4,23
+Wyoming,4,23
+Kentucky,4.1,25
+Montana,4.1,25
+Oklahoma,4.1,25
+Oregon,4.1,25
+Maryland,4.2,29
+California,4.3,30
+Delaware,4.4,31
+South Carolina,4.4,31
+Georgia,4.5,33
+Louisiana,4.5,33
+Mississippi,4.5,33
+North Carolina,4.5,33
+Ohio,4.5,33
+Rhode Island,4.5,33
+Connecticut,4.6,39
+New Jersey,4.6,39
+New York,4.6,39
+Illinois,4.7,42
+Washington,4.7,42
+Michigan,4.8,44
+Pennsylvania,4.8,44
+Arizona,4.9,46
+Nevada,4.9,46
+West Virginia,5.4,48
+District of Columbia,5.7,49
+New Mexico,5.8,50
+Alaska,7.3,51
