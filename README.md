@@ -93,11 +93,30 @@ Assignment:
 
 
 **WEEK FOUR** (April 10): A Sense of Place (+ design considerations)   
-*Changing geodata into useful forms, working with multiple datasets, design considerations for our maps.* 
+*Changing geodata into useful forms, working with multiple datasets, design considerations for our maps.*
 
+Readings:
+
+- [Feminist Data Visualizatio](https://civic.mit.edu/feminist-data-visualization)n, Catherine D'Ignazio 
+- "Representation and the Necessity of Interpretation", Laura Kurgan (find in readings folder as kurgan2
+
+Assignment:
+
+- This week you don't have to create a map. Instead, you should write two things:
+
+  - A 200 word response to the readings (what are you thoughts? what do you disagree or disagree with? what are you thinking differently about?)
+  - Your **decision for  what you want to do for your final project.** Post this on your blog and submit it using the homework form. (It's okay if this isn't completely finalized, but you should still post your general ideas and what you're thinking of.)
+
+- NOTE: If you haven't completed the homework assignments up to this point, this week is your chance to catch up. 
+
+  ​
+
+  Look out for an email from me about this week's upcoming class. 
 
 **WEEK FIVE** (April 17): Counter-Mapping as Practice   
 *Exploring aerial imagery and the material experience of mapping.* 
+
+
 
 
 **WEEK SIX** (April 24): The View from Above    
