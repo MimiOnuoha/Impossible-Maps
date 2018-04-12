@@ -109,8 +109,6 @@ Assignment:
 
 - NOTE: If you haven't completed the homework assignments up to this point, this week is your chance to catch up. 
 
-  ​
-
   Look out for an email from me about this week's upcoming class. 
 
 **WEEK FIVE** (April 17): Counter-Mapping as Practice   
