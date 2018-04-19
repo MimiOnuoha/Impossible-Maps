@@ -114,17 +114,17 @@ Assignment:
 **WEEK FIVE** (April 17): Counter-Mapping as Practice   
 *Exploring aerial imagery and the material experience of mapping.* 
 
-You have no reading this week! Use the extra time to begin working on your final project. 
+You have no reading this week, and your assignment is optional. Use this week to start working on your final project (yes, you have two weeks to work on it). 
 
 Assignment:
 
-- Use the images we gathered from our balloon mapping in class this week  (or [these images](https://www.dropbox.com/home/images-mappingclass/mapping-images_11-15) gathered from Bennington College, Vermont) to create an aerial map! To do this, you will need to use [MapKnitter](https://mapknitter.org/). Watch the tutorial video on the main page to use the software (it is relatively straightforward.)
-  - After you've made your map, make sure to export it as an image and post it on your website. Submit the post/map using the homework form!
-- Start working on your final project. 
+- OPTIONAL: Use [these images](https://www.dropbox.com/home/images-mappingclass/mapping-images_11-15) gathered from a balloon mapping expedition at Bennington College in Vermont to create an aerial map! To do this, you will need to use [MapKnitter](https://mapknitter.org/). Watch the tutorial video on the main page to use the software (it is relatively straightforward.)
+  - If you do this assignment, make sure to export it as an image and post it on your website. Submit the post/map using the homework form. If you haven't done another homework assignment, this can count as a make-up. 
+- NOT OPTIONAL: Start working on your final project. 
 
 NOTE 1: I won't be in class next week, but you should still show up at the normal time for a guest speaker. 
 
-NOTE 2: Because I won't be in the next class, over the course of the week I'll be responding to each of you about your final ideas. Look out for emails from me! 
+NOTE 2: Because I won't be in the next class, over the course of the week I'll be conversing with each of you about your final projects. Look out for emails from me! 
 
 **WEEK SIX** (April 24): The View from Above    
 *Guest Speakers* 
