@@ -25,7 +25,7 @@ You can work together or in groups. You will need to present to the class (and h
 
 ## Presentations
 
-Your presentations will be 7 minutes long.  For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? 
+Your presentations should be about 7 minutes long.  For your presentation, walk us through your project from start to finish. What was your idea? Why did you want to do it? How did you do it? What did you end up with as a final piece? What did you learn? Feel free to use slides if you like. 
 
 You will need to have a **written documentation post** ([here](http://jillhubley.com/blog/nyctrees) is an example from a real-world project, though yours may be longer) that is also due on **May 1**. Include pictures from the final piece and, if you like, process shots. 
 
