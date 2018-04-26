@@ -118,7 +118,7 @@ You have no reading this week, and your assignment is optional. Use this week to
 
 Assignment:
 
-- OPTIONAL: Use [these images](https://www.dropbox.com/home/images-mappingclass/mapping-images_11-15) gathered from a balloon mapping expedition at Bennington College in Vermont to create an aerial map! To do this, you will need to use [MapKnitter](https://mapknitter.org/). Watch the tutorial video on the main page to use the software (it is relatively straightforward.)
+- OPTIONAL: Use [these images](https://www.dropbox.com/sh/rju8axnigf0injo/AABqFN8yU90U0imAVHsmozoPa?dl=0) gathered from a balloon mapping expedition at Bennington College in Vermont to create an aerial map! To do this, you will need to use [MapKnitter](https://mapknitter.org/). Watch the tutorial video on the main page to use the software (it is relatively straightforward.)
   - If you do this assignment, make sure to export it as an image and post it on your website. Submit the post/map using the homework form. If you haven't done another homework assignment, this can count as a make-up. 
 - NOT OPTIONAL: Start working on your final project. 
 
