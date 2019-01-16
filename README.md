@@ -1,19 +1,21 @@
 # Impossible Maps
 
-**Instructor:** Mimi Onuoha  (cgo221@nyu.edu)  
-**Term:** Spring 2018, NYU ITP  
-**Time:** Tuesdays, 12:10pm - 2:40pm   
-**Office Hours:** Wednesdays 10am- 12pm ([Link for scheduling](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or email
+**Instructor:** Mimi Onuoha  (conuoha@olin.edu)  
+**Term:** Spring 2019, Olin  
+**Time:** Tuesdays, 9:30am - 12:30pm   
+**Assignment Wiki**: [https://github.com/MimiOnuoha/Creative-Approaches/wiki/Homework](https://github.com/MimiOnuoha/ImpossibleMaps/wiki/Homework)
 
-Submit homework [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfocVAYIRgXef4dXbr-fu3qYdosTLTtE6ZwEQDbkuiJljYWCw/viewform?usp=sf_link). 
+Submit assignments [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfocVAYIRgXef4dXbr-fu3qYdosTLTtE6ZwEQDbkuiJljYWCw/viewform?usp=sf_link). 
 
-## Course Description 
+## Independent Study Description 
 
 Digital technologies have created new opportunities and resources for mapping, cartography, and geolocation-based visual investigation. They have also brought with them the need to consider issues concerning power, representation, and space.
 
-In this seven-week course, students will learn the practical realities of working with spatial geographies in digital and web-based contexts. Time will also be devoted to investigating the conceptual questions that inform mapping and strategies for art-based counter-mapping. The course will address questions such as: What makes a good digital or web map? What do maps represent as visual information artifacts? What happens when we consider claims to space as topics for art-based investigations?
+In this group independent study, a small group of students will partner with the Isabella Stewart Gardner Museum and a number of community youth organizations to create pieces that consider the intersection of art, data, and space in new ways. Students will conceive of and gather creative information and datasets about Boston with the goal of collectively creating a series of objects that take the form of maps, models and manifestations. These creative objects will be shared with and presented at the Gardner They will ultimately serve as a form of research, visual inspiration, and raw material for the ISG Museum’s Big Plans: Picturing Social Reform exhibition and Community Engagement program.
 
-Students will gain exposure to a broad range of techniques in web and digital mapping, with the goal that they eventually focus on one or two. Throughout the course, students will be challenged to make maps (or map-based creations) that function as artful objects and challenge common conventions of the capabilities of maps. The class will be taught primarily in JavaScript, with assignments making use of git and Github. Other technologies taught will include mapshaper, Leaflet.js, Mapbox.js, and Carto.
+During the independent studies, students will  will learn the  practical realities of working with spatial geographies in digital, physical, and web-based contexts. Much time will also be devoted to investigating the conceptual questions that inform mapping and strategies for art-based counter-mapping. The course will address questions such as: What makes a good digital or web map? What do maps represent as visual information artifacts? What happens when we consider claims to space as topics for art-based investigations? How can we subvert, reinvent, and respond to these claims?  
+
+Students will gain exposure to a broad range of techniques in web and digital mapping, with the goal that they eventually focus on one or two. Throughout the course, students will be challenged to make maps (or map-based creations) that function as artful objects and challenge common conventions of the capabilities of maps. The class will be taught primarily in JavaScript, with assignments making use of git and Github. Other technologies taught will include mapshaper, Leaflet.js, Mapbox.js, and Carto. At the conclusion of the course, students will present (individually in groups) a map or map-based object to a team of critics. If these projects are judges as being strong enough, they will then be presented to stakeholders at the Gardner, where they will be on display to museum visitors.
 
 ## Expectations and Requirements
 - Class attendance and punctuality 
@@ -21,118 +23,50 @@ Students will gain exposure to a broad range of techniques in web and digital ma
 - Weekly assignments + accompanying blogpost  
 - Midterm and final project (completed individually or in groups)
 
-This class is an inclusive and harassment-free space for everyone, with no tolerations of discimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.  
+This is an independent study, not a class. In the first six weeks or so, it may be difficult to tell why this has been designated an independent study, as you will be expected to complete readings, discussion, and assignments like a typical class. I would suggest you think of this more as a research group: a chance to learn some foundational material, and then pursue the research and technical topics that are most intriguing to you. Over the second half of the semester, the distinction will become clearer. You will work on one project, and you will be expected to come bearing  a high degree of motivation and self-direction. You will be expected to engage with one another's work both inside and out of our group. We will elaborate on what this looks like practically the first time we meet. 
 
-All students are allowed a maximum of one absence. It is worth stressing that because the class covers so much new material, it is very much to your advantage to attend all classes if possible. 
+In addition, a degree of flexibility will be required over the course of the semester, as we will be working alongside others and schedules may need to shift last minute. None of this should affect you outside of class time, but it means that the syllabus below may shift. 
 
-Homework should be submitted at least **one hour** before class begins. This gives me time to look at your work, provide feedback, and structure the class in response to what you've submitted. 
+This is intended to be an inclusive and harassment-free space for everyone, with no tolerations of discrimination based on gender, race, sexual orientation, religion, disability, or appearance. Please feel free to let me know privately if you have an academic accommodation.  All students are allowed a maximum of one absence. 
+
+Homework should be submitted  **the night before** before class. This will provide me time to look at your work, provide feedback, and structure the class in response to what you've submitted. 
 
 
 ## Evaluation
 Final evaluation will be based on the completion of all assignments, class participation, quality of work, and attendance. 
 
-Be sure to complete the readings assigned for homework. Not only are they painless, useful, and interesting, but the in-class discussions will be far richer if everyone has completed the required reading.   
-
-For the final projects, I am more interested in what you choose to do than in what you can do. We will elaborate on these distinctions in class. 
-
 ## Format 
-Each class will begin with exposure to an interesting map or application of mapping, followed by students presenting assignments from the previous week. If there was a reading/viewing assigned, the class will include a brief discussion (no laptops open during discussion). The bulk of the class will be spent introducing and experimenting with more technical mapping methods and tools and teasing out the critical connotations of these objects and techniques. I will screen record some of these sections of class so that you can refer to them outside of class.
-
-I can be reached via email at all times, but am slow to respond to emails sent over the weekend. If you are in need of a prompt response, please email during the week. I reserve 24 hours to respond, but typically will reply much sooner. 
+Our sessions will be different each week, though each week in the first half of the IS will be oriented around a central theme and accompanied by some exploration of a digital mapping technology or concept. All assignments and readings will be posted through the class GitHub repository.
 
 ## Syllabus
-**WEEK ONE** (March 20): Introductions      
+**WEEK ONE** (Jan 23): Introductions      
 *Introductions to class and to each other/semester set-up:  What is a map, what is the history of mapping, what the different parts of a web map do and what they can be used for, what are impossible maps?* 
 
-Reading:
-
-- "Experimental Geography: From Cultural Production to the Production of Space", Trevor Paglen
-
-Assignment:
-
-- Go through [this](http://maptime.io/anatomy-of-a-web-map/#0) (may take a minute to load correctly)
-- Create a map like the map we made in class. Consult the [leaflet documentation](http://leafletjs.com/) to figure out how to change the view of your map (based on lat and long values) and how to add a marker and popup. Get your map online in some fashion and submit it using the homework form (above).
-- Along with your map, post a short 300-500 word entry about your thoughts on the readings, the process of making your first web map(s), or anything we talked about in class. What is interesting (or uninteresting) to you about maps, space, and digital representations of both? 
-- If you're not used to the terminal or the command line, I highly suggest you read Allison Parrish's text on [UNIX text processing tools](http://rwet.decontextualize.com/book/unix/) up until the section that begins with "Structure of UNIX commands".
-
-BONUS: (not required, we won't talk about it in class, but just for those of you who can't get enough): skim the intro to [this comparison](https://www.justinobeirne.com/cartography-comparison) between Apple and Google Maps. 
-
-
-
-**WEEK TWO**  (March 27):  The Perils of Web Mapping    
+**WEEK TWO**  (Jan 30):  The Perils of Web Mapping    
 *Slippy web maps, the differences between Leaflet and Mapbox and vector vs raster tiles.  What is geodata, how do we create it and add it to our maps?* 
 
-Readings:
+**WEEK THREE** (Feb 6): Visit #1 to the ISG    
+*We meet our collaborators and stakeholders at the Isabella Stewart Gardner Museum and get a tour of the space.*
 
-- ["Trap Streets"](http://www.cabinetmagazine.org/issues/47/bridle.php), James Bridle 
-- "[Sorry, We Have No Imagery Here](https://www.atlasobscura.com/articles/investigating-censored-spots-on-google-earth)", Meg Van Huygen
+**WEEK FOUR** (Feb 13): Visit #2    
+*We meet with the community groups, and visit some mapping museums for inspiration and history*. 
 
-Assignment:
-
-- Create a map using mapboxgl.js. You should include data in the form of points, circles, or markers on top of the basemap (and are welcome to include more than that). You have options for what to map: either extend the mag that we began to create in class with earthquake data, remake your map from last week, or create your own dataset using [geojson.io](http://geojson.io/) and add that to the map. 
-
-- Submit your homework using the homework form (see above). 
-
-  NOTE: check the "useful things" document and the examples if you need any help on the things we spoke about. 
-
-
-**WEEK THREE** (April 3): The Battle for Data    
-*Diving deeper into geodata, working with external datasets, wrangling geodata to meet our needs.*
-
-Readings:
-
-- [Mapping's Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) by Shannon Mattern 
-
-Assignment:
-
-- Take the map that you created last week and extend it by adding another data source. Think about the story of the map—what could be added that would contribute to what you did? For it to make sense, do you now have to remove something? Consider how the data are all working together to tell a greater story. 
-  - [Optionally, you can take one of the exercises we did in class and expand on it]
-- Find a way to make sure that your map is intelligible to someone coming to it for the first time (this might mean incorporating a title, legend, landing page, etc.)
-- Get your map online in some way, shape, or form, so that we can see it with a link (consider using [github pages](https://pages.github.com/)).
-- Submit your homework using the homework form (see above). 
-
-
-**WEEK FOUR** (April 10): A Sense of Place (+ design considerations)   
+**WEEK FIVE** (Feb 27): A Sense of Place (+ design considerations)   
 *Changing geodata into useful forms, working with multiple datasets, design considerations for our maps.*
 
-Readings:
-
-- [Feminist Data Visualizatio](https://civic.mit.edu/feminist-data-visualization)n, Catherine D'Ignazio 
-- "Representation and the Necessity of Interpretation", Laura Kurgan (find in readings folder as kurgan2
-
-Assignment:
-
-- This week you don't have to create a map. Instead, you should write two things:
-
-  - A 200 word response to the readings (what are you thoughts? what do you disagree or disagree with? what are you thinking differently about?)
-  - Your **decision for  what you want to do for your final project.** Post this on your blog and submit it using the homework form. (It's okay if this isn't completely finalized, but you should still post your general ideas and what you're thinking of.)
-
-- NOTE: If you haven't completed the homework assignments up to this point, this week is your chance to catch up. 
-
-  Look out for an email from me about this week's upcoming class. 
-
-**WEEK FIVE** (April 17): Counter-Mapping as Practice   
+**WEEK SIX** (March 6): Counter-Mapping as Practice   
 *Exploring aerial imagery and the material experience of mapping.* 
 
-You have no reading this week, and your assignment is optional. Use this week to start working on your final project (yes, you have two weeks to work on it). 
+**WEEK NINE** (March 13): The View from Above    
+*Satellite data and mapping* 
 
-Assignment:
+**WEEK TEN**(March 27): Project Proposals     
 
-- OPTIONAL: Use [these images](https://www.dropbox.com/sh/rju8axnigf0injo/AABqFN8yU90U0imAVHsmozoPa?dl=0) gathered from a balloon mapping expedition at Bennington College in Vermont to create an aerial map! To do this, you will need to use [MapKnitter](https://mapknitter.org/). Watch the tutorial video on the main page to use the software (it is relatively straightforward.)
-  - If you do this assignment, make sure to export it as an image and post it on your website. Submit the post/map using the homework form. If you haven't done another homework assignment, this can count as a make-up. 
-- NOT OPTIONAL: Start working on your final project. 
+**WEEK ELEVEN**(April 3): Work on projects - no group meeting this week. 
 
-NOTE 1: I won't be in class next week, but you should still show up at the normal time for a guest speaker. 
+**WEEK TWELVE** (May 1): Final Presentations  to internal cries 
 
-NOTE 2: Because I won't be in the next class, over the course of the week I'll be conversing with each of you about your final projects. Look out for emails from me! 
-
-**WEEK SIX** (April 24): The View from Above    
-*Guest Speakers* 
-
-Your homework this week is to work on your final projects! 
-
-
-**WEEK SEVEN**(May 1): Final Presentations     
+**WEEK THIRTEEN** (May 7): Final Presentations to the ISG and community groups 
 
 
 
