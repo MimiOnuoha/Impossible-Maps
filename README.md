@@ -2,10 +2,9 @@
 
 **Instructor:** Mimi Onuoha  (conuoha@olin.edu)  
 **Term:** Spring 2019, Olin  
-**Time:** Tuesdays, 9:30am - 12:30pm   
-**Assignment Wiki**: [https://github.com/MimiOnuoha/Creative-Approaches/wiki/Homework](https://github.com/MimiOnuoha/ImpossibleMaps/wiki/Homework)
-
-Submit assignments [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfocVAYIRgXef4dXbr-fu3qYdosTLTtE6ZwEQDbkuiJljYWCw/viewform?usp=sf_link). 
+**Time:** Wednesdays, 9:30am - 12:30pm   
+**Assignment Wiki**: [Here](https://github.com/MimiOnuoha/ImpossibleMaps/wiki/Homework)
+**Map Resources and Inspiration**: 
 
 ## Independent Study Description 
 
@@ -45,13 +44,13 @@ Our sessions will be different each week, though each week in the first half of 
 **WEEK TWO**  (Jan 30):  The Perils of Web Mapping    
 *Slippy web maps, the differences between Leaflet and Mapbox and vector vs raster tiles.  What is geodata, how do we create it and add it to our maps?* 
 
-**WEEK THREE** (Feb 6): Visit #1 to the ISG    
+**WEEK THREE** (Feb 6): Thinking Poetically about Mapping
+*In light of our partnership with the ISG and community groups, we consider poetic approaches to mapping* 
+
+**WEEK FOUR** (Feb 13): Visit to the Isabella Stewart Gardner Museum   
 *We meet our collaborators and stakeholders at the Isabella Stewart Gardner Museum and get a tour of the space.*
 
-**WEEK FOUR** (Feb 13): Visit #2    
-*We meet with the community groups, and visit some mapping museums for inspiration and history*. 
-
-**WEEK FIVE** (Feb 27): A Sense of Place (+ design considerations)   
+**WEEK FIVE** (Feb 27): A Sense of Place (+ design considerations)  
 *Changing geodata into useful forms, working with multiple datasets, design considerations for our maps.*
 
 **WEEK SIX** (March 6): Counter-Mapping as Practice   
