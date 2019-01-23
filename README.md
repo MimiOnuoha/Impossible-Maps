@@ -2,7 +2,7 @@
 
 **Instructor:** Mimi Onuoha  (conuoha@olin.edu)  
 **Term:** Spring 2019, Olin College of Engineering      
-**Office Hours:** Tuesdays, 1-3pm in MHL36 or by appointment 
+**Office Hours:** Tuesdays, 1-3pm in MHL36 or by appointment   
 **Time:** Wednesdays, 9:30am - 12:00pm   
 **[Assignment Wiki](https://github.com/MimiOnuoha/Impossible-Maps/wiki/Assignments)**  
 **[Map Resources and Inspiration](https://github.com/MimiOnuoha/Impossible-Maps/wiki/Map-Examples)** 
@@ -56,7 +56,6 @@ This week's assignment is about diving into readings and allowing you to assess 
     - *Experimental Geography*, Paglen  
   - In the [week1](https://github.com/MimiOnuoha/Impossible-Maps/tree/master/week1) folder, find the  base map or extended base map file. Use the Leaflet documentation to change the view and zoom of the map and add a popup or marker. Get the map online and post it to your blog or website (which you should create for this class). 
   - In addition to the map, post at least 200 words on our thoughts about the readings, the process of creating your first web map, or anything that we talked about in class. What interests you about maps, space, and the representation of both digitally? You can write anything, but you must post to your blog and post the link to the [Assignments](https://github.com/MimiOnuoha/Impossible-Maps/wiki/Assignments) wiki. 
-
 
 **WEEK TWO**  (Jan 30):  The Perils of Web Mapping    
 *Slippy web maps, the differences between Leaflet and Mapbox and vector vs raster tiles.  What is geodata, how do we create it and add it to our maps?* 
