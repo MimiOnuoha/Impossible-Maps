@@ -4,7 +4,7 @@
 **Term:** Spring 2019, Olin College of Engineering      
 **Office Hours:** Tuesdays, 1-3pm in MHL36 or by appointment 
 **Time:** Wednesdays, 9:30am - 12:00pm   
-**[Assignment Wiki](https://github.com/MimiOnuoha/ImpossibleMaps/wiki/Homework)**  
+**[Assignment Wiki](https://github.com/MimiOnuoha/Impossible-Maps/wiki/Assignments)**  
 **[Map Resources and Inspiration](https://github.com/MimiOnuoha/Impossible-Maps/wiki/Map-Examples)** 
 
 ## Independent Study Description 
@@ -45,6 +45,14 @@ Our sessions will be different each week, though each week in the first half of 
 ## Syllabus
 **WEEK ONE** (Jan 23): Introductions      
 *Introductions to class and to each other/semester set-up:  What is a map, what is the history of mapping, what the different parts of a web map do and what they can be used for, what are impossible maps?* 
+
+ASSIGNMENT: 
+
+- Go through [this](http://maptime.io/anatomy-of-a-web-map/#0) (may take a minute to load properly)
+- Read the introduction to [this](https://www.justinobeirne.com/cartography-comparison) comparison between Apple and Google Maps. 
+- Change the map that we made in class. 
+
+- Post a 300-500 word entry about your thoughts on the essay or anything we talked about in class. Does it matter that Apple and Google Maps have different styles? What interests you about maps, space, and the representation of both digitally? You can write anything, but you must post to your blog and submit the link on the [Assignments](https://github.com/MimiOnuoha/Impossible-Maps/wiki/Assignments) portion of the wiki. 
 
 **WEEK TWO**  (Jan 30):  The Perils of Web Mapping    
 *Slippy web maps, the differences between Leaflet and Mapbox and vector vs raster tiles.  What is geodata, how do we create it and add it to our maps?* 
