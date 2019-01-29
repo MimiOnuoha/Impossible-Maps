@@ -1,0 +1,42 @@
+<!-- Documentation: https://www.mapbox.com/mapbox-gl-js/style-spec/#sources-geojson -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    html,
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+    </style>
+    <title> Vector Map </title>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+
+<body>
+    <div id="map"> </div>
+    <script>
+    mapboxgl.accessToken = 'YOUR-TOKEN-HERE';
+
+    var map = new mapboxgl.Map({
+        container: 'map', // you need this on every map
+        style: 'mapbox://styles/mapbox/streets-v9', // you also need this
+    });
+
+
+
+    console.log("testing");
+
+    </script>
+</body>
+
+</html>
