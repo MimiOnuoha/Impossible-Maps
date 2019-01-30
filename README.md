@@ -60,6 +60,20 @@ This week's assignment is about diving into readings and allowing you to assess 
 **WEEK TWO**  (Jan 30):  The Perils of Web Mapping    
 *Slippy web maps, the differences between Leaflet and Mapbox and vector vs raster tiles.  What is geodata, how do we create it and add it to our maps?* 
 
+ASSIGNMENT:
+
+- Read: 
+
+  - "[Sorry, We Have No Imagery Here](https://www.atlasobscura.com/articles/investigating-censored-spots-on-google-earth)", Meg Van Huygen **OR** ["Trap Streets"](http://www.cabinetmagazine.org/issues/47/bridle.php), James Bridle
+  - The first chapter of James Scott's [Seeing Like A State](https://libcom.org/files/Seeing%20Like%20a%20State%20-%20James%20C.%20Scott.pdf)  (pages 11- 52)
+  - Just like last week, post at least  200 words on your thoughts about the readings, the map, or anything related to what we talked about in class.
+
+- Beginning with one of the maps in the week2 folder, create a web map using map boxgl.js! You should include data in the form of points, circles, or markers on top of the basemap (and are welcome to include more than that). Map whatever you like: you can work from one of the existing maps (such as the earthquake map), remake your map from last week, or create your own dataset (using [geojson.io](http://geojson.io) or any other tool.) Get the map online and update the assignment wiki with it. 
+
+  *[A quick note: You've got a lot of work this week, but remember: this isn't a class, it's an independent study. You are welcome to lean into the parts that feel most interesting, useful, or challenging. If you find yourself more excited by making a web map, do this and skim the readings; if the readings draw you in more, focus on them and spend less time on the map; if you want to experiment with tiles or finding data, shift the assignment in this way. This is the beauty of independent studies!]*
+
+
+
 **WEEK THREE** (Feb 6): Thinking Poetically about Mapping
 *In light of our partnership with the ISG and community groups, we consider poetic approaches to mapping and space.*
 

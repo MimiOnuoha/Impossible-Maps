@@ -18,18 +18,23 @@
     }
     </style>
     <title> Vector Map </title>
-    <script src='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
+    <script src='https://api.mapbox .com/mapbox-gl-js/v0.40.1/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v0.40.1/mapbox-gl.css' rel='stylesheet' />
 </head>
 
 <body>
     <div id="map"> </div>
     <script>
-    mapboxgl.accessToken = 'YOUR-TOKEN-HERE';
+    mapboxgl.accessToken = 'pk.eyJ1IjoibW9udW9oYSIsImEiOiJEN0llUXVZIn0.H0DvYd5sdO9b3dNcnuucvw';
 
     var map = new mapboxgl.Map({
         container: 'map', // you need this on every map
-        style: 'mapbox://styles/mapbox/streets-v9', // you also need this
+        style: 'mapbox://styles/mapbox/satellite-v9', // you also need this
+        center: [-71.265854, 42.2931], // [long, lat]
+        zoom: 5,
+        bearing: 29, 
+        pitch: 50
+
     });
 
 

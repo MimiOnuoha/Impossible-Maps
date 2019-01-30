@@ -29,13 +29,13 @@
 <body>
     <div id="map"> </div>
     <script>
-    mapboxgl.accessToken = 'YOUR-TOKEN-GOES-HERE';
+    mapboxgl.accessToken = 'pk.eyJ1IjoibW9udW9oYSIsImEiOiJEN0llUXVZIn0.H0DvYd5sdO9b3dNcnuucvw';
 
     var map = new mapboxgl.Map({
         container: 'map', // you need this
-        style: 'mapbox://styles/mapbox/light-v9', // you also need this 
-        center: [-74.0006213, 40.7229971], // [long, lat] Different than leaflet, different than google maps, same as geojson! 
-        zoom: 4,
+        style: 'mapbox://styles/mapbox/empty-v9', // you also need this 
+        center: [-102.7865932, 33.3095718], // [long, lat] Different than leaflet, different than google maps, same as geojson! 
+        zoom: 2,
     });
 
 
@@ -43,11 +43,17 @@
     map.on('load', function() {
         map.addSource('states', {
             type: 'geojson',
-            data: 
+            data: './data/states.geojson'
         });
         map.addLayer({
-            
+            id: 'states',
+            type: 'fill',
+            source: 'states',
+            paint: {
+                'fill-color': 'pink',
+                'fill-opacity': .9
             }
+
         })
     });
     </script>
