@@ -11,9 +11,11 @@
 - [whereonearth-airport](https://github.com/straup/whereonearth-airport): outlines of every airport
 - [whereonearth-building](https://github.com/straup/whereonearth-building/): building outlines
 - [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth): other features output from GeoPlanet by Aaron Straup Cope
+- [seaiceindex](https://nsidc.org/data/g02135#) - sea ice cover 
 - [NYC Open Data Portal](https://opendata.cityofnewyork.us/) - useful for data about ny
 - [TIGER shapefiles](https://www.census.gov/geo/maps-data/data/tiger-line.html) - shapefiles from TIGER
 - [world-geojson](https://github.com/johan/world.geo.json/tree/master/countries) - simplified geometries for every country and US state
 - [OSM extracts](http://download.geofabrik.de/) - data extracts from OSM for continents/countries
+- [Analyze Boston](https://data.boston.gov/) - data about Boston 
 
 ### 
