@@ -77,6 +77,25 @@ ASSIGNMENT:
 **WEEK THREE** (Feb 6): Thinking Poetically about Mapping
 *In light of our partnership with the ISG and community groups, we consider poetic approaches to mapping and space.*
 
+ASSIGNMENT:
+
+- We'll be going to the ISG Museum next week, so your assignment for this week is to familiarize yourself with the community groups who will be inspiring the work that you create:
+
+  - *Urbano Project:*  Urbano is a non-profit community art studio that fosters public and participatory art as a vehicle for personal transformation, community cohesion and social change.
+
+    -  Watch [Square Roots of Boston](http://urbanoproject.org/square-roots-of-boston) and look over their [Mapping Exclusion](http://urbanoproject.org/mapping-exclusion) project. 
+
+  - *Hyde Square Task Force* (Jovenes en Accion):  When HSTF was founded in the late 1980s, a coalition of neighbors and community leaders felt a sense of urgency to address the violence and economic and social challenges facing the Hyde/Jackson Square neighborhood of Jamaica Plain. Today the neighborhood is known as Boston’s Latin Quarter, and while in some ways the community has transformed, many challenges persist. HSTF now engages over 800 youth ages 6–25 in college and career preparation, Afro-Latin arts and cultural enrichment, and community-building initiatives. 
+
+    - Read about HSTF's neighborhood vision [here](https://www.hydesquare.org/bostons-latin-quarter/our-neighborhood-vision/). 
+
+  - *Sisters Unchained*: Sisters Unchained is a six-week summer program for young women of color with loved ones currently and formerly behind bars. Our goal is to build community among women whose lives have been affected by incarceration. Through art, radical education, and collective healing and visioning, we seek to create an environment where women are supported and do not feel alone.
+
+    - Learn more about Sisters Unchained by watching [Eternally Misunderstood](https://drive.google.com/file/d/1ah_BUQ5oyiAI-zwAJMh3CyBF2X0L8JQs/view). 
+
+
+
+
 **WEEK FOUR** (Feb 13): Visit to the Isabella Stewart Gardner Museum   
 *We meet our collaborators and stakeholders at the Isabella Stewart Gardner Museum and get a tour of the space.*
 
