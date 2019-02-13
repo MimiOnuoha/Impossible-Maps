@@ -115,7 +115,7 @@ PART 2:
 
  - At our visit to the ISGM, we spoke about the Big Plans exhibition, which is all about landscape planning in the 19th century. Read [Victoria Okoye](http://africanurbanism.net/decolonial-feminist-research-methodology/)'s blogpost(s) as a coda to that conversation and a bridge to future conversations: http://africanurbanism.net/speculative-infrastructures-at-the-urban-margins/ 
 
- - read Counter (Mapping) Actions: Mapping as Militant Research (see readings folder)
+ - read [Counter (Mapping) Actions: Mapping as Militant Research](https://github.com/MimiOnuoha/Impossible-Maps/blob/master/readings/Counter-Mapping-Actions_Mapping-as-Militant-Research.pdf) (in readings folder)
 
  - **Formulate your thoughts and post a response to all of the material you've engaged with. Post it to your blog and then the wiki.** 
 
