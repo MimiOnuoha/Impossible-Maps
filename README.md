@@ -83,7 +83,7 @@ ASSIGNMENT:
 
   - *Urbano Project:*  Urbano is a non-profit community art studio that fosters public and participatory art as a vehicle for personal transformation, community cohesion and social change.
 
-    -  Watch [Square Roots of Boston](http://urbanoproject.org/square-roots-of-boston) and look over their [Mapping Exclusion](http://urbanoproject.org/mapping-exclusion) project. 
+    -  Watch [Square Roots of Boston](http://urbanoproject.org/square-roots-of-boston) and look over their [Mapping Exclusion](http://urbanoproject.org/mapping-exclusion) project (find more [here](http://horskyprojects.com/projects/mapping-exclusion/))
 
   - *Hyde Square Task Force* (Jovenes en Accion):  When HSTF was founded in the late 1980s, a coalition of neighbors and community leaders felt a sense of urgency to address the violence and economic and social challenges facing the Hyde/Jackson Square neighborhood of Jamaica Plain. Today the neighborhood is known as Boston’s Latin Quarter, and while in some ways the community has transformed, many challenges persist. HSTF now engages over 800 youth ages 6–25 in college and career preparation, Afro-Latin arts and cultural enrichment, and community-building initiatives. 
 
@@ -94,21 +94,48 @@ ASSIGNMENT:
     - Learn more about Sisters Unchained by watching [Eternally Misunderstood](https://drive.google.com/file/d/1ah_BUQ5oyiAI-zwAJMh3CyBF2X0L8JQs/view). 
 
 
-
-
 **WEEK FOUR** (Feb 13): Visit to the Isabella Stewart Gardner Museum   
 *We meet our collaborators and stakeholders at the Isabella Stewart Gardner Museum and get a tour of the space.*
 
-**WEEK FIVE** (Feb 27): A Sense of Place (+ design considerations)  
-*Changing geodata into useful forms, working with multiple datasets, design considerations for our maps.*
+ASSIGNMENT:
 
-**WEEK SIX** (March 6): Counter-Mapping as Practice   
+You can do these in any order, but I suggest seeing one as homework for this week and one as homework for next week. There's a lot of material to sift through! 
+
+PART 1: 
+
+ - The community groups have shared with us more of their work and their thoughts on space and mapping. Visit the links below: 
+    - *Sisters*: [coming soon]
+    - *HSTF*: see documents in  week 4 folder 
+    - *Urbano*: https://docs.google.com/document/d/1dmbrypMM2PZy965dZ95lT9IxKk9FpxNaBPWO8sez-BI/edit (They're responding through their work to questions about mapping and space, which are in bold)
+    - After going through these, think about what stands  out to you about each group. What are the themes they are working with? What resonates with you, and why? Are you seeing any connections with other things we've discussed or talked about? **Either write out your response or make some kind of map (or map-based object) in response to one or more of the groups. Post this on your blog and the wiki.** 
+
+PART 2: 
+
+ - Watch William Whyte's *[The Social Life of Urban Spaces](https://www.dropbox.com/s/35azeqcex1rjag0/Whyte_the-social-life-of-small-urban-spaces.mp4?dl=0)* 
+
+ - At our visit to the ISGM, we spoke about the Big Plans exhibition, which is all about landscape planning in the 19th century. Read [Victoria Okoye](http://africanurbanism.net/decolonial-feminist-research-methodology/)'s blogpost(s) as a coda to that conversation and a bridge to future conversations: http://africanurbanism.net/speculative-infrastructures-at-the-urban-margins/ 
+
+ - read Counter (Mapping) Actions: Mapping as Militant Research (see readings folder)
+
+ - **Formulate your thoughts and post a response to all of the material you've engaged with. Post it to your blog and then the wiki.** 
+
+
+BONUS (completely optional, we won't talk about these in class):
+
+ - [Tips on map-making](https://gisgeography.com/map-elements-how-to-guide-map-making/) and [Color Brewer](http://colorbrewer2.org/) 
+
+ - "[AI Will Spark The Next Big Tech Platform—Call it MirrorWorld](https://www.wired.com/story/mirrorworld-ar-next-big-tech-platform/)", Kevin Kelly at WIRED 
+
+
+**WEEK FIVE** (Feb 27): Counter-Mapping as Practice   
 *Exploring aerial imagery and the material experience of mapping.* 
 
-**WEEK NINE** (March 13): The View from Above    
+**WEEK SIX** (March 6): The View from Above    
 *Satellite data and mapping* 
 
-**WEEK TEN**(March 27): Project Proposals     
+**WEEK NINE** (March 13): Initial Project Proposals 
+
+**WEEK TEN**(March 27): Work on projects 
 
 **WEEK ELEVEN**(April 3): Work on projects - no group meeting this week. 
 
