@@ -104,7 +104,7 @@ You can do these in any order, but I suggest seeing one as homework for this wee
 PART 1: 
 
  - The community groups have shared with us more of their work and their thoughts on space and mapping. Visit the links below: 
-    - *Sisters*: [coming soon]
+    - *Sisters*: The group hasn't yet sent us their thoughts on space, so respond to the video you watched last week.
     - *HSTF*: see documents in  week 4 folder 
     - *Urbano*: https://docs.google.com/document/d/1dmbrypMM2PZy965dZ95lT9IxKk9FpxNaBPWO8sez-BI/edit (They're responding through their work to questions about mapping and space, which are in bold)
     - After going through these, think about what stands  out to you about each group. What are the themes they are working with? What resonates with you, and why? Are you seeing any connections with other things we've discussed or talked about? **Either write out your response or make some kind of map (or map-based object) in response to one or more of the groups. Post this on your blog and the wiki.** 
