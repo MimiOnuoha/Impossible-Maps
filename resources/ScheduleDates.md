@@ -1,18 +1,18 @@
-## **Schedule/Dates** 
+# **Schedule/Dates** 
 
-**Ken** **(Hyde Square Task Force)**
+##**Ken** **(Hyde Square Task Force)**
 
 Mon. 3:30-5:30 Older organizers
 
 Wed. 4:30-5:30 8th grade youth
 
-**Sisters Unchained**
+##**Sisters Unchained**
 
 Monday 4-6pm 
 
 Wednesday 4-6pm
 
-**Urbano Project** 
+##**Urbano Project** 
 
 February - April -
 
@@ -24,12 +24,12 @@ May - July -
 
  Tuesdays and Thursdays 3:30-6:30pm - Nathalia JMag AiR
 
-**Mimi** 
+##**Mimi** 
 
 Thursday mornings and afternoons are best for meetings
 
 Potentially Mon. eves.
 
-**Olin Students**
+##**Olin Students**
 
-Wed. am 9:30-12:30 
+Wed. am 9:30-12:30 (group meets at this time, they may be available to speak at other times)
