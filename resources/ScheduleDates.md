@@ -29,7 +29,7 @@
 
 - Thursday mornings and afternoons are best for meetings
 
-- Potentially Mon. eves.
+- Potentially Mon. eves or Wednesday afternoons 
 
 **Olin Students** 
 

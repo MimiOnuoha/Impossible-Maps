@@ -126,9 +126,22 @@ BONUS (completely optional, we won't talk about these in class):
 
  - "[AI Will Spark The Next Big Tech Platform—Call it MirrorWorld](https://www.wired.com/story/mirrorworld-ar-next-big-tech-platform/)", Kevin Kelly at WIRED 
 
-
 **WEEK FIVE** (Feb 27): Counter-Mapping as Practice   
 *Exploring aerial imagery and the material experience of mapping.* 
+
+ASSIGNMENT:
+
+- Read [Feminist Data Visualizatio](https://civic.mit.edu/feminist-data-visualization)n, Catherine D'Ignazio
+- Read [Mapping's Intelligent Agents](https://placesjournal.org/article/mappings-intelligent-agents/) by Shannon Mattern
+- Sisters Unchained posted some responses for us, read them [here](https://docs.google.com/document/d/1kh16SNPab6fCaqfMLCFKhCyQPqJ2V0lP6kwF69GOv8k/edit?usp=sharing) and see the video in week4 folder. Also note that in the Resources folder I have included information on when the different groups are free! 
+- **What idea are resonating with you in the class? What are you thinking of doing for your final project? Begin posting your ideas, thoughts, or sketches, or follow up on what you posted last week. ** 
+- Skim this post on balloon mapping so that you're more familiar with the equipment and what you'll be doing next week:
+  - [post 1](https://publiclab.org/wiki/balloon-mapping-of-local-invasive-species-and-town-mapping)
+
+OPTIONAL:
+
+- Read introduction, chapters 1 and 2 from Jane Jacob's [The Death and Life of Great American Cities](https://www.buurtwijs.nl/sites/default/files/buurtwijs/bestanden/jane_jacobs_the_death_and_life_of_great_american.pdf)
+- Bring warm clothes for class next week! 
 
 **WEEK SIX** (March 6): The View from Above    
 *Satellite data and mapping* 
