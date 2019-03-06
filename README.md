@@ -141,7 +141,7 @@ ASSIGNMENT:
 OPTIONAL:
 
 - Read introduction, chapters 1 and 2 from Jane Jacob's [The Death and Life of Great American Cities](https://www.buurtwijs.nl/sites/default/files/buurtwijs/bestanden/jane_jacobs_the_death_and_life_of_great_american.pdf)
-- Bring warm clothes for class next week! 
+- Bring warm clothes for class next week, as we'll be outside. 
 
 **WEEK SIX** (March 6): The View from Above    
 *Satellite data and mapping* 
