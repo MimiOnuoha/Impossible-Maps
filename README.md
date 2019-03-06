@@ -146,6 +146,10 @@ OPTIONAL:
 **WEEK SIX** (March 6): The View from Above    
 *Satellite data and mapping* 
 
+ASSIGNMENT:
+
+ - Work on your counter-map of Olin, and come prepared to show us what you did next week in class. See the document in the week6 folder if you need more information. 
+
 **WEEK NINE** (March 13): Initial Project Proposals 
 
 **WEEK TEN**(March 27): Work on projects 
