@@ -144,7 +144,7 @@ OPTIONAL:
 - Bring warm clothes for class next week, as we'll be outside. 
 
 **WEEK SIX** (March 6): The View from Above    
-*Satellite data and mapping* 
+*Aerial data and mapping* 
 
 ASSIGNMENT:
 
