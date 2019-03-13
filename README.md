@@ -106,7 +106,7 @@ PART 1:
  - The community groups have shared with us more of their work and their thoughts on space and mapping. Visit the links below: 
     - *Sisters*:  find [here](https://docs.google.com/document/d/1kh16SNPab6fCaqfMLCFKhCyQPqJ2V0lP6kwF69GOv8k/edit?usp=sharing) and see video in week4 folder
     - *HSTF*: see documents in  week 4 folder 
-    - *Urbano*: https://docs.google.com/document/d/1dmbrypMM2PZy965dZ95lT9IxKk9FpxNaBPWO8sez-BI/edit (They're responding through their work to questions about mapping and space, which are in bold)
+    - *Urbano*: https://docs.google.com/document/d/1W6ih-olAQXjS7Cjl4cVmBaZFURc11L2MfSXPegKaN1M/edit?usp=sharing(They're responding through their work to questions about mapping and space, which are in bold)
     - After going through these, think about what stands  out to you about each group. What are the themes they are working with? What resonates with you, and why? Are you seeing any connections with other things we've discussed or talked about? **Either write out your response or make some kind of map (or map-based object) in response to one or more of the groups. Post this on your blog and the wiki.** 
 
 PART 2: 
@@ -148,7 +148,7 @@ OPTIONAL:
 
 ASSIGNMENT:
 
- - Work on your counter-map of Olin, and come prepared to show us what you did next week in class. See the document in the week6 folder if you need more information. 
+ - Work on your counter-map of Olin, and come prepared to show us what you did next week in class. See the document in the week6 folder if ymou need more information. 
 
 **WEEK NINE** (March 13): Initial Project Proposals 
 
