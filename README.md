@@ -152,6 +152,18 @@ ASSIGNMENT:
 
 **WEEK NINE** (March 13): Initial Project Proposals 
 
+ASSIGNMENT:
+
+ - Take a look at Urbano's posting [here](https://docs.google.com/document/d/1W6ih-olAQXjS7Cjl4cVmBaZFURc11L2MfSXPegKaN1M/edit?usp=sharing) and then write up a quick post about the final project. Is there someone you are really interested in working with, a project idea that you really want to pursue, or a community group that you want to respond to? **Ideally do this by Friday March 15 if you can!**
+
+OPTIONAL READINGS (aka topics that might interest some of you, read them as you like): 
+
+ - *[Art as a Public Issue](https://github.com/MimiOnuoha/Impossible-Maps/blob/master/readings/Open_14_Art_as_a_Public_Issue.pdf)* - The articles in this issue of Open are engaged with artworks that take place in public and social spaces. Skim the titles and overviews to see if anything intrigues you. 
+ - "[Socially Engaged Practice](https://www.tate.org.uk/art/art-terms/s/socially-engaged-practice)" - Socially engaged art *might* be the closest thing that the art world has to participatory design. You can read up on it in this short overview from the Tate. 
+ - *[Relational Aesthetics](https://github.com/MimiOnuoha/Impossible-Maps/blob/master/readings/Relational%20Aesthetics_entire.pdf)* - Relational aesthetics refers to "art that takes as its theoretical horizon the realm of human interactions and its social context." In other words, art that isn't about the traditional space of the gallery, museum, and studio and takes as its subject the entirety of life as it is lived. Emerged from the 1990s, was quite contentious, and Nicolas Bourriaud (author of this reading) is the one who coined the phrase. 
+
+
+
 **WEEK TEN**(March 27): Work on projects 
 
 **WEEK ELEVEN**(April 3): Work on projects - no group meeting this week. 
