@@ -165,11 +165,17 @@ OPTIONAL READINGS (aka topics that might interest some of you, read them as you 
 
 
 
-**WEEK TEN**(March 27): Work on projects 
+**WEEK TEN**(March 27): Project ideation & Research 
 
-**WEEK ELEVEN**(April 3): Work on projects - no group meeting this week. 
+**WEEK ELEVEN**(April 3): Rhea visit | presentation of research and initial gestures 
 
-**WEEK TWELVE** (May 1): Final Presentations  to internal cries 
+**WEEK TWELVE**(April 10): Work on project | Physical prototypes 
+
+**WEEK THIRTEEN**(April 17): Informal overview of progress (with course mates only) 
+
+**WEEK FOURTEEN**(April 24): Work on projects | Refinement 
+
+**WEEK TWELVE** (May 1): Final Presentations  to internal critics 
 
 **WEEK THIRTEEN** (May 7): Final Presentations to the ISG and community groups 
 
