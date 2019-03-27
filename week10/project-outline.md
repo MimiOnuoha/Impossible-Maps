@@ -13,12 +13,6 @@ You will be working in pairs, and will have a small budget for materials (about 
 - **Who is in your group?**
 - **Which community group are you in conversation with?** (Urbano, HSTF, or Sisters Unchained)
 - **What is the theme of your project?**
-  - You can think of this as a hunch—an idea, vision, question, or concept that's orienting your work — or as a concrete plan that you want to pursue. 
-  - If you don't yet have an idea, feel free to use some of the below examples of potential forms, materials, scales, affects, and locations to get you thinking. 
-    - *Forms* (examples: video, sculpture, website, diorama, comic book, collage). 
-    - *Materials* (examples: concrete, plexiglass, living tissue, rice paper, cake)
-    - *Scale* (examples: big as a house, small as a marble)
-    - *Affects*/*emotions* (examples: clumsy, cheerful, morose, businesslike)
-    - *Inspirations* (projects, people, contexts that inspire you to follow this hunch)
+  - You can think of this as a hunch or as a concrete plan that you want to pursue. 
 - **What is your next step?**
-  - Note: you need to have something for class next week, so think of this week as a sprint. Just like with 
+  - Note: you need to have something for class next week in the form of research materials, prototypes, first exercises

@@ -163,9 +163,15 @@ OPTIONAL READINGS (aka topics that might interest some of you, read them as you 
  - *[Relational Aesthetics](https://github.com/MimiOnuoha/Impossible-Maps/blob/master/readings/Relational%20Aesthetics_entire.pdf)* - Relational aesthetics refers to "art that takes as its theoretical horizon the realm of human interactions and its social context." In other words, art that isn't about the traditional space of the gallery, museum, and studio and takes as its subject the entirety of life as it is lived. Emerged from the 1990s, was quite contentious, and Nicolas Bourriaud (author of this reading) is the one who coined the phrase. 
  - *[Extrastatecraft: The Power of Infrastructure Space](https://www.archdaily.com/573193/extrastatecraft-the-power-of-infrastructure-space-by-keller-easterling)* (excerpt) - Adjacent to many of the discussions that we've had, this reading considers space through the lens of infrastructure. 
 
+**WEEK TEN** (March 27): Project ideation & Research 
 
+ASSIGNMENT:
 
-**WEEK TEN**(March 27): Project ideation & Research 
+ - Next week you'll have a chance to present your initial ideas, findings, or leanings to the rest of the group and to Rhea.  This could take the form of research, prototypes, sketches, first gestures/interventions, materials, etc.  This is still the ideation stage, so be gentle on yourselves, but bring enough that we can be useful in responding to you.  
+    - If you're lost, consider the categories that you wrote about in class this week. What form, material, audience, location, etc are you thinking? If this still feels like a stretch, just try making something! (Sometimes you can't think through problems, you have to create your way through them.)
+    - Remember that Rhea will be at our class next week! 
+
+- NOTE: you can revisit the overview for this project [here](https://github.com/MimiOnuoha/Impossible-Maps/blob/master/week10/project-outline.md). Remember that you're creating something that is inspired by mapping + the group that you're responding to, and hopefully you will create materials that serve as inspiration to them. 
 
 **WEEK ELEVEN**(April 3): Rhea visit | presentation of research and initial gestures 
 
