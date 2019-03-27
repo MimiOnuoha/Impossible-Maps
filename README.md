@@ -161,6 +161,7 @@ OPTIONAL READINGS (aka topics that might interest some of you, read them as you 
  - *[Art as a Public Issue](https://github.com/MimiOnuoha/Impossible-Maps/blob/master/readings/Open_14_Art_as_a_Public_Issue.pdf)* - The articles in this issue of Open are engaged with artworks that take place in public and social spaces. Skim the titles and overviews to see if anything intrigues you. 
  - "[Socially Engaged Practice](https://www.tate.org.uk/art/art-terms/s/socially-engaged-practice)" - Socially engaged art *might* be the closest thing that the art world has to participatory design. You can read up on it in this short overview from the Tate. 
  - *[Relational Aesthetics](https://github.com/MimiOnuoha/Impossible-Maps/blob/master/readings/Relational%20Aesthetics_entire.pdf)* - Relational aesthetics refers to "art that takes as its theoretical horizon the realm of human interactions and its social context." In other words, art that isn't about the traditional space of the gallery, museum, and studio and takes as its subject the entirety of life as it is lived. Emerged from the 1990s, was quite contentious, and Nicolas Bourriaud (author of this reading) is the one who coined the phrase. 
+ - *[Extrastatecraft: The Power of Infrastructure Space](https://www.archdaily.com/573193/extrastatecraft-the-power-of-infrastructure-space-by-keller-easterling)* (excerpt) - Adjacent to many of the discussions that we've had, this reading considers space through the lens of infrastructure. 
 
 
 
