@@ -2,7 +2,7 @@
 
 **Instructor:** Mimi Onuoha  (conuoha@olin.edu)  
 **Term:** Spring 2019, Olin College of Engineering      
-**Office Hours:** Tuesdays, 1-3pm in MHL36 or by appointment   
+**Office Hours:** MHL36, Tuesdays 1-3pm ([sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUl0bkJBeEw5QmpTfGRlZmF1bHR8MTVmMGJiY2ZkYjkyNWQ0NGQ1Y2YzODliMDQ0MmRlODU)) or by emailt   
 **Time:** Wednesdays, 9:30am - 12:00pm   
 **[Assignment Wiki](https://github.com/MimiOnuoha/Impossible-Maps/wiki/Assignments)**  
 **[Map Resources and Inspiration](https://github.com/MimiOnuoha/Impossible-Maps/wiki/Map-Examples)** 
