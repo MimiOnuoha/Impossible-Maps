@@ -183,7 +183,7 @@ ASSIGNMENT:
 
 **WEEK TWELVE** (May 1): Final Presentations  to internal critics 
 
-**WEEK THIRTEEN** (May 7): Final Presentations to the ISG and community groups 
+**WEEK THIRTEEN** (May 8): Final Presentations to the ISG and community groups 
 
 
 
