@@ -1,8 +1,8 @@
-##Wednesday, May 8
+#Wednesday, May 8
 
 **Time:** 10:15am - 12:15pm
 **Location**: Isabella Stewart Gardner Museum 
-**Schedule:** 
+**Schedule:**
 
  - 10:15am - Arrive at ISGM, greeted by Brian Hone 
 
